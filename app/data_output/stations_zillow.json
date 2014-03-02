@@ -1,0 +1,824 @@
+[
+    {
+        "id": " Ayer",
+        "zip": "01432",
+        "value_index": "243200",
+        "psf": "169"
+    },
+    {
+        "id": " North Leominster",
+        "zip": "01453",
+        "value_index": "198100",
+        "psf": "138"
+    },
+    {
+        "id": " Shirley",
+        "zip": "01464",
+        "value_index": "259400",
+        "psf": "136"
+    },
+    {
+        "id": " Littleton / Rte 495",
+        "zip": "01460",
+        "value_index": "391200",
+        "psf": "218"
+    },
+    {
+        "id": " Fitchburg",
+        "zip": "01420",
+        "value_index": "153800",
+        "psf": "108"
+    },
+    {
+        "id": " West Concord",
+        "zip": "01742",
+        "value_index": "752300",
+        "psf": "345"
+    },
+    {
+        "id": " Concord",
+        "zip": "01742",
+        "value_index": "752300",
+        "psf": "345"
+    },
+    {
+        "id": " South Acton",
+        "zip": "01720",
+        "value_index": "481000",
+        "psf": "240"
+    },
+    {
+        "id": " Lincoln",
+        "zip": "01773",
+        "value_index": "907300",
+        "psf": "313"
+    },
+    {
+        "id": " Silver Hill",
+        "zip": "02493",
+        "value_index": "1243700",
+        "psf": "423"
+    },
+    {
+        "id": " Hastings",
+        "zip": "02493",
+        "value_index": "1243700",
+        "psf": "423"
+    },
+    {
+        "id": " Kendal Green",
+        "zip": "02493",
+        "value_index": "1243700",
+        "psf": "423"
+    },
+    {
+        "id": " Brandeis/ Roberts",
+        "zip": "02453",
+        "value_index": "423100",
+        "psf": "281"
+    },
+    {
+        "id": " Waltham",
+        "zip": "02453",
+        "value_index": "423100",
+        "psf": "281"
+    },
+    {
+        "id": " Waverley",
+        "zip": "02478",
+        "value_index": "755300",
+        "psf": "402"
+    },
+    {
+        "id": " Grafton",
+        "zip": "01536",
+        "value_index": "265600",
+        "psf": "182"
+    },
+    {
+        "id": " North Station",
+        "zip": "02114",
+        "value_index": "538100",
+        "psf": "781"
+    },
+    {
+        "id": " Worcester / Union Station",
+        "zip": "01608",
+        "value_index": 0,
+        "psf": "150"
+    },
+    {
+        "id": " Belmont",
+        "zip": "02478",
+        "value_index": "755300",
+        "psf": "402"
+    },
+    {
+        "id": " Porter Square",
+        "zip": "02140",
+        "value_index": "533500",
+        "psf": "469"
+    },
+    {
+        "id": " Westborough",
+        "zip": "01581",
+        "value_index": "389300",
+        "psf": "188"
+    },
+    {
+        "id": " Southborough",
+        "zip": "01772",
+        "value_index": "536100",
+        "psf": "235"
+    },
+    {
+        "id": " Ashland",
+        "zip": "01721",
+        "value_index": "320700",
+        "psf": "202"
+    },
+    {
+        "id": " Framingham",
+        "zip": "01701",
+        "value_index": "339100",
+        "psf": "227"
+    },
+    {
+        "id": " West Natick",
+        "zip": "01760",
+        "value_index": "434900",
+        "psf": "268"
+    },
+    {
+        "id": " Natick",
+        "zip": "01760",
+        "value_index": "434900",
+        "psf": "268"
+    },
+    {
+        "id": " Wellesley Square",
+        "zip": "02482",
+        "value_index": "890500",
+        "psf": "433"
+    },
+    {
+        "id": " Wellesley Hills",
+        "zip": "02481",
+        "value_index": "1135200",
+        "psf": "447"
+    },
+    {
+        "id": " Auburndale",
+        "zip": "02466",
+        "value_index": "723300",
+        "psf": "388"
+    },
+    {
+        "id": " Wellesley Farms",
+        "zip": "02481",
+        "value_index": "1135200",
+        "psf": "447"
+    },
+    {
+        "id": " West Newton",
+        "zip": "02465",
+        "value_index": "696000",
+        "psf": "405"
+    },
+    {
+        "id": " Yawkey",
+        "zip": "02215",
+        "value_index": "413200",
+        "psf": "662"
+    },
+    {
+        "id": " Back Bay",
+        "zip": "02116",
+        "value_index": "836600",
+        "psf": "856"
+    },
+    {
+        "id": " South Station",
+        "zip": "02110",
+        "value_index": "773600",
+        "psf": "717"
+    },
+    {
+        "id": " Newtonville",
+        "zip": "02460",
+        "value_index": "715700",
+        "psf": "384"
+    },
+    {
+        "id": " Readville",
+        "zip": "02136",
+        "value_index": "307800",
+        "psf": "221"
+    },
+    {
+        "id": " Fairmount",
+        "zip": "02136",
+        "value_index": "307800",
+        "psf": "221"
+    },
+    {
+        "id": " Morton Street",
+        "zip": "02126",
+        "value_index": "263700",
+        "psf": "199"
+    },
+    {
+        "id": " Talbot Ave",
+        "zip": "02124",
+        "value_index": "319200",
+        "psf": "213"
+    },
+    {
+        "id": " Four Corners/geneva Ave",
+        "zip": "02121",
+        "value_index": "264600",
+        "psf": "170"
+    },
+    {
+        "id": " Uphams Corner",
+        "zip": "02125",
+        "value_index": "303700",
+        "psf": "251"
+    },
+    {
+        "id": " Newmarket",
+        "zip": "02119",
+        "value_index": "289600",
+        "psf": "206"
+    },
+    {
+        "id": " Greenbush",
+        "zip": "02066",
+        "value_index": "488800",
+        "psf": "262"
+    },
+    {
+        "id": " North Scituate",
+        "zip": "02066",
+        "value_index": "488800",
+        "psf": "262"
+    },
+    {
+        "id": " Cohasset",
+        "zip": "02025",
+        "value_index": "753400",
+        "psf": "305"
+    },
+    {
+        "id": " East Weymouth",
+        "zip": "02189",
+        "value_index": "291700",
+        "psf": "216"
+    },
+    {
+        "id": " Quincy Center",
+        "zip": "02169",
+        "value_index": "323200",
+        "psf": "250"
+    },
+    {
+        "id": " Weymouth Landing/ East Braintree",
+        "zip": "02188",
+        "value_index": "302600",
+        "psf": "220"
+    },
+    {
+        "id": " Nantasket Junction",
+        "zip": "02043",
+        "value_index": "643800",
+        "psf": "330"
+    },
+    {
+        "id": " West Hingham",
+        "zip": "02043",
+        "value_index": "643800",
+        "psf": "330"
+    },
+    {
+        "id": " Forge Park / 495",
+        "zip": "02038",
+        "value_index": "349800",
+        "psf": "199"
+    },
+    {
+        "id": " JFK/UMASS",
+        "zip": "02127",
+        "value_index": "452900",
+        "psf": "452"
+    },
+    {
+        "id": " Franklin",
+        "zip": "02038",
+        "value_index": "349800",
+        "psf": "199"
+    },
+    {
+        "id": " Norfolk",
+        "zip": "02056",
+        "value_index": "446600",
+        "psf": "215"
+    },
+    {
+        "id": " Walpole",
+        "zip": "02081",
+        "value_index": "403300",
+        "psf": "227"
+    },
+    {
+        "id": " Plimptonville",
+        "zip": "02081",
+        "value_index": "403300",
+        "psf": "227"
+    },
+    {
+        "id": " Windsor Gardens",
+        "zip": "02062",
+        "value_index": "372200",
+        "psf": "256"
+    },
+    {
+        "id": " Norwood Central",
+        "zip": "02062",
+        "value_index": "372200",
+        "psf": "256"
+    },
+    {
+        "id": " Norwood Depot",
+        "zip": "02062",
+        "value_index": "372200",
+        "psf": "256"
+    },
+    {
+        "id": " Islington",
+        "zip": "02090",
+        "value_index": "630700",
+        "psf": "323"
+    },
+    {
+        "id": " Endicott",
+        "zip": "02026",
+        "value_index": "378600",
+        "psf": "274"
+    },
+    {
+        "id": " Ruggles",
+        "zip": "02120",
+        "value_index": "362300",
+        "psf": "317"
+    },
+    {
+        "id": " Haverhill",
+        "zip": "01832",
+        "value_index": "212600",
+        "psf": "143"
+    },
+    {
+        "id": " Dedham Corp. Center",
+        "zip": "02026",
+        "value_index": "378600",
+        "psf": "274"
+    },
+    {
+        "id": " Hyde Park",
+        "zip": "02136",
+        "value_index": "307800",
+        "psf": "221"
+    },
+    {
+        "id": " Bradford",
+        "zip": "01835",
+        "value_index": "240200",
+        "psf": "144"
+    },
+    {
+        "id": " Lawrence",
+        "zip": "01843",
+        "value_index": "195900",
+        "psf": "148"
+    },
+    {
+        "id": " Andover",
+        "zip": "01810",
+        "value_index": "540400",
+        "psf": "223"
+    },
+    {
+        "id": " Ballardvale",
+        "zip": "01810",
+        "value_index": "540400",
+        "psf": "223"
+    },
+    {
+        "id": " North Wilmington",
+        "zip": "01887",
+        "value_index": "390100",
+        "psf": "246"
+    },
+    {
+        "id": " Wilmington",
+        "zip": "01887",
+        "value_index": "390100",
+        "psf": "246"
+    },
+    {
+        "id": " Anderson/ Woburn",
+        "zip": "01801",
+        "value_index": "367100",
+        "psf": "254"
+    },
+    {
+        "id": " Reading",
+        "zip": "01867",
+        "value_index": "458000",
+        "psf": "254"
+    },
+    {
+        "id": " Wakefield",
+        "zip": "01880",
+        "value_index": "416100",
+        "psf": "241"
+    },
+    {
+        "id": " Greenwood",
+        "zip": "01880",
+        "value_index": "416100",
+        "psf": "241"
+    },
+    {
+        "id": " Kingston",
+        "zip": "02364",
+        "value_index": "328000",
+        "psf": "201"
+    },
+    {
+        "id": " Melrose Cedar Park",
+        "zip": "02176",
+        "value_index": "433700",
+        "psf": "246"
+    },
+    {
+        "id": " Melrose Highlands",
+        "zip": "02176",
+        "value_index": "433700",
+        "psf": "246"
+    },
+    {
+        "id": " Wyoming Hill",
+        "zip": "02176",
+        "value_index": "433700",
+        "psf": "246"
+    },
+    {
+        "id": " Malden Center",
+        "zip": "02148",
+        "value_index": "307200",
+        "psf": "218"
+    },
+    {
+        "id": " Halifax",
+        "zip": "02338",
+        "value_index": "265200",
+        "psf": "176"
+    },
+    {
+        "id": " Plymouth",
+        "zip": "02360",
+        "value_index": "285200",
+        "psf": "178"
+    },
+    {
+        "id": " Hanson",
+        "zip": "02341",
+        "value_index": "316000",
+        "psf": "196"
+    },
+    {
+        "id": " Abington",
+        "zip": "02351",
+        "value_index": "280000",
+        "psf": "180"
+    },
+    {
+        "id": " Whitman",
+        "zip": "02382",
+        "value_index": "261600",
+        "psf": "167"
+    },
+    {
+        "id": " South Weymouth",
+        "zip": "02190",
+        "value_index": "319000",
+        "psf": "218"
+    },
+    {
+        "id": " Middleboro/ Lakeville",
+        "zip": "02347",
+        "value_index": "306900",
+        "psf": "178"
+    },
+    {
+        "id": " Bridgewater",
+        "zip": "02324",
+        "value_index": "295200",
+        "psf": "172"
+    },
+    {
+        "id": " Campello",
+        "zip": "02301",
+        "value_index": "195500",
+        "psf": "132"
+    },
+    {
+        "id": " Brockton",
+        "zip": "02302",
+        "value_index": "183100",
+        "psf": "136"
+    },
+    {
+        "id": " North Billerica",
+        "zip": "01862",
+        "value_index": "342500",
+        "psf": "187"
+    },
+    {
+        "id": " Lowell",
+        "zip": "01852",
+        "value_index": "205700",
+        "psf": "147"
+    },
+    {
+        "id": " Holbrook/ Randolph",
+        "zip": "02368",
+        "value_index": "246400",
+        "psf": "190"
+    },
+    {
+        "id": " Braintree",
+        "zip": "02184",
+        "value_index": "370100",
+        "psf": "223"
+    },
+    {
+        "id": " Montello",
+        "zip": "02302",
+        "value_index": "183100",
+        "psf": "136"
+    },
+    {
+        "id": " Mishawum",
+        "zip": "01801",
+        "value_index": "367100",
+        "psf": "254"
+    },
+    {
+        "id": " Winchester Center",
+        "zip": "01890",
+        "value_index": "796600",
+        "psf": "330"
+    },
+    {
+        "id": " Wedgemere",
+        "zip": "01890",
+        "value_index": "796600",
+        "psf": "330"
+    },
+    {
+        "id": " West Medford",
+        "zip": "02155",
+        "value_index": "389500",
+        "psf": "272"
+    },
+    {
+        "id": " Wickford Junction",
+        "zip": "02852",
+        "value_index": "265900",
+        "psf": "167"
+    },
+    {
+        "id": " TF Green Airport",
+        "zip": "02886",
+        "value_index": "173000",
+        "psf": "147"
+    },
+    {
+        "id": " Providence",
+        "zip": "02903",
+        "value_index": "150400",
+        "psf": "183"
+    },
+    {
+        "id": " South Attleboro",
+        "zip": "02703",
+        "value_index": "241400",
+        "psf": "168"
+    },
+    {
+        "id": " Attleboro",
+        "zip": "02703",
+        "value_index": "241400",
+        "psf": "168"
+    },
+    {
+        "id": " Mansfield",
+        "zip": "02048",
+        "value_index": "352000",
+        "psf": "205"
+    },
+    {
+        "id": " Canton Junction",
+        "zip": "02021",
+        "value_index": "431900",
+        "psf": "235"
+    },
+    {
+        "id": " Stoughton",
+        "zip": "02072",
+        "value_index": "283400",
+        "psf": "171"
+    },
+    {
+        "id": " Sharon",
+        "zip": "02067",
+        "value_index": "464600",
+        "psf": "242"
+    },
+    {
+        "id": " Canton Center",
+        "zip": "02021",
+        "value_index": "431900",
+        "psf": "235"
+    },
+    {
+        "id": " Route 128",
+        "zip": "02090",
+        "value_index": "630700",
+        "psf": "323"
+    },
+    {
+        "id": " Needham Heights",
+        "zip": "02494",
+        "value_index": "666400",
+        "psf": "372"
+    },
+    {
+        "id": " Needham Center",
+        "zip": "02492",
+        "value_index": "776100",
+        "psf": "377"
+    },
+    {
+        "id": " Hersey",
+        "zip": "02492",
+        "value_index": "776100",
+        "psf": "377"
+    },
+    {
+        "id": " Needham Junction",
+        "zip": "02492",
+        "value_index": "776100",
+        "psf": "377"
+    },
+    {
+        "id": " West Roxbury",
+        "zip": "02132",
+        "value_index": "429000",
+        "psf": "291"
+    },
+    {
+        "id": " Bellevue",
+        "zip": "02132",
+        "value_index": "429000",
+        "psf": "291"
+    },
+    {
+        "id": " Highland",
+        "zip": "02132",
+        "value_index": "429000",
+        "psf": "291"
+    },
+    {
+        "id": " Roslindale Village",
+        "zip": "02131",
+        "value_index": "355300",
+        "psf": "263"
+    },
+    {
+        "id": " Forest Hills",
+        "zip": "02130",
+        "value_index": "427200",
+        "psf": "348"
+    },
+    {
+        "id": " Rockport",
+        "zip": "01966",
+        "value_index": "447600",
+        "psf": "310"
+    },
+    {
+        "id": " West Gloucester",
+        "zip": "01930",
+        "value_index": "355300",
+        "psf": "253"
+    },
+    {
+        "id": " Gloucester",
+        "zip": "01930",
+        "value_index": "355300",
+        "psf": "253"
+    },
+    {
+        "id": " Prides Crossing",
+        "zip": "01915",
+        "value_index": "357900",
+        "psf": "216"
+    },
+    {
+        "id": " Manchester",
+        "zip": "01944",
+        "value_index": "713300",
+        "psf": "308"
+    },
+    {
+        "id": " Beverly Farms",
+        "zip": "01915",
+        "value_index": "357900",
+        "psf": "216"
+    },
+    {
+        "id": " Montserrat",
+        "zip": "01915",
+        "value_index": "357900",
+        "psf": "216"
+    },
+    {
+        "id": " Rowley",
+        "zip": "01969",
+        "value_index": "393000",
+        "psf": "206"
+    },
+    {
+        "id": " Newburyport",
+        "zip": "01950",
+        "value_index": "422300",
+        "psf": "276"
+    },
+    {
+        "id": " Ipswich",
+        "zip": "01938",
+        "value_index": "411800",
+        "psf": "219"
+    },
+    {
+        "id": " Hamilton/ Wenham",
+        "zip": "01982",
+        "value_index": "467400",
+        "psf": "255"
+    },
+    {
+        "id": " North Beverly",
+        "zip": "01915",
+        "value_index": "357900",
+        "psf": "216"
+    },
+    {
+        "id": " Beverly",
+        "zip": "01915",
+        "value_index": "357900",
+        "psf": "216"
+    },
+    {
+        "id": " Salem",
+        "zip": "01970",
+        "value_index": "287800",
+        "psf": "191"
+    },
+    {
+        "id": " Swampscott",
+        "zip": "01907",
+        "value_index": "400800",
+        "psf": "223"
+    },
+    {
+        "id": " Lynn",
+        "zip": "01901",
+        "value_index": 0,
+        "psf": "190"
+    },
+    {
+        "id": " River Works",
+        "zip": "01910",
+        "value_index": 0,
+        "psf": "190"
+    },
+    {
+        "id": " Chelsea",
+        "zip": "02150",
+        "value_index": "227200",
+        "psf": "196"
+    }
+]

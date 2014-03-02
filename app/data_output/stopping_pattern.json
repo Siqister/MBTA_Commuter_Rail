@@ -1,0 +1,123 @@
+[
+    {
+        "line_id": "GREENBSH",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+            }
+        ]
+    },
+    {
+        "line_id": "FRANKLIN",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,10,11,12,13,14,15]
+            }
+        ]
+    },
+    {
+        "line_id": "WORCSTER",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,10,11,12,13,14,15,16]
+            }
+        ]
+    },
+    {
+        "line_id": "LOWELL",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 3, 4, 5, 6, 7, 8, 9]
+            },
+            {
+                "start_index": 2,
+                "stops": [2, 3]
+            }
+        ]
+    },
+    {
+        "line_id": "FAIRMNT",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 2, 3, 4, 5, 6, 7]
+            }
+        ]
+    },
+    {
+        "line_id": "HAVRHILL",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0, 1, 2, 3, 4, 5,8, 9,10,11,12,13,14,15]
+            }
+        ]
+    },
+    {
+        "line_id": "OLCOLONY",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0,2]
+            },
+            {
+                "start_index": 1,
+                "stops": [1,2,3,4,5,6,13,14,15,16]
+            },
+            {
+                "start_index": 7,
+                "stops": [7,8,9,10,11,12,13]
+            }
+
+        ]
+    },
+    {
+        "line_id": "NBRYROCK",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0,1,2,3,4,5,6,12,13,14,15,16,17,18]
+            },
+            {
+                "start_index": 7,
+                "stops": [7,8,9,10,11,12]
+            }
+        ]
+    },
+    {
+        "line_id": "PROVSTOU",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0,1,2,3,4,5,6,9,10,11,12,13,14]
+            },
+            {
+                "start_index": 7,
+                "stops": [7,8,9]
+            }
+        ]
+    },
+    {
+        "line_id": "NEEDHAM",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0,1,2,3,4,5,6,7,8,9,10,11]
+            }
+        ]
+    },
+    {
+        "line_id": "FITCHBRG",
+        "patterns": [
+            {
+                "start_index": 0,
+                "stops": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,86 @@
+html,body{
+    margin:0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+}
+body{
+    color: #fff;
+    background: rgba(248,248,248,1);
+}
+
+/* fonts */
+@font-face{
+    font-family: 'Miso-bold';
+    url: '../assets/fonts/miso/miso-bold.otf';
+}
+@font-face{
+    font-family: 'Miso-regular';
+    url: '../assets/fonts/miso/miso-regular.ttf';
+}
+.tooltip{
+    font-family: 'Miso-regular', Helvetica, sans-serif;
+}
+.tooltip span{
+    font-family: 'Miso-bold', Helvetica, sans-serif;
+}
+svg text{
+    font-family: 'Miso-bold', Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.container,
+.container .canvas{
+    height: 100%;
+    width: 100%;
+}
+
+.container .tooltip{
+    position: absolute;
+    display: none;
+}
+
+.container .control{
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    margin-left: -150px;
+    width: 300px;
+    height: 60px;
+}
+
+.control a{
+    width: 60px;
+    height: 60px;
+    margin: 0 14px;
+    background: rgba(200,200,200,0.6);
+    float: left;
+    border-radius: 45px;
+    transition: background 0.3s;
+    border: 2px solid #fff;
+}
+
+.control a.active{
+    background: #F97338;
+}
+svg .station circle{
+    stroke: white;
+}
+svg .station circle.highlighted{
+    stroke: #F97338;
+}
+
+/* Tooltip */
+.tooltip{
+    padding: 8px;
+    background: rgba(80,80,80,0.7);
+    transition: background,opaciy 0.5s;
+}
+.tooltip li{
+    list-style: none;
+    font-size: 14px;
+}
+.tooltip li span{
+    font-size: 12px;
+}
+

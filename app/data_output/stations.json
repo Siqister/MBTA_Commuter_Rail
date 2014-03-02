@@ -1,0 +1,2415 @@
+[
+    {
+        "line_id": "FITCHBRG",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Fitchburg",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=65",
+                "freq": 13,
+                "duration": 5266.153846153846,
+                "address": "100 Main St Fitchburg, MA 01420-7805",
+                "location": {
+                    "lat": 42.581038,
+                    "lng": -71.792666
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " North Leominster",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=129",
+                "freq": 13,
+                "duration": 4823.076923076923,
+                "address": "34 Nashua St Leominster, MA 01453-3312",
+                "location": {
+                    "lat": 42.5387493,
+                    "lng": -71.7395563
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Shirley",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=189",
+                "freq": 13,
+                "duration": 4384.615384615385,
+                "address": "Ayer Rd & Phoenix St Shirley, MA 01464",
+                "location": {
+                    "lat": 42.5256978,
+                    "lng": -71.5808748
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Ayer",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=12",
+                "freq": 13,
+                "duration": 4070.769230769231,
+                "address": "70 Main St Ayer, MA 01432-1337",
+                "location": {
+                    "lat": 42.5599238,
+                    "lng": -71.5894156
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Littleton / Rte 495",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=105",
+                "freq": 13,
+                "duration": 3563.076923076923,
+                "address": "261 Foster St Littleton, MA 01460",
+                "location": {
+                    "lat": 42.5192444,
+                    "lng": -71.50256070000002
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " South Acton",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=192",
+                "freq": 17,
+                "duration": 3130.5882352941176,
+                "address": "10 Central St Acton, MA 01720-3521",
+                "location": {
+                    "lat": 42.462185,
+                    "lng": -71.456644
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " West Concord",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=222",
+                "freq": 16,
+                "duration": 2853.75,
+                "address": "Commonwealth Ave & Main St West Concord, MA 01742",
+                "location": {
+                    "lat": 42.4564754,
+                    "lng": -71.3921975
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Concord",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=52",
+                "freq": 16,
+                "duration": 2490,
+                "address": "90 Thoreau St Concord, MA 01742-2408",
+                "location": {
+                    "lat": 42.4568091,
+                    "lng": -71.3574553
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " Lincoln",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=104",
+                "freq": 16,
+                "duration": 2137.5,
+                "address": "160 Lincoln Rd Lincoln, MA 01773-3834",
+                "location": {
+                    "lat": 42.4142285,
+                    "lng": -71.3253661
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Silver Hill",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=190",
+                "freq": 2,
+                "duration": 2160,
+                "address": "Silver Hill Rd & Merriam St Weston, MA 02493",
+                "location": {
+                    "lat": 42.418957,
+                    "lng": -71.29472299999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Hastings",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=82",
+                "freq": 5,
+                "duration": 2004,
+                "address": "105 Viles St Weston, MA 02493-1700",
+                "location": {
+                    "lat": 42.3856476,
+                    "lng": -71.2892466
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "id": " Kendal Green",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=97",
+                "freq": 14,
+                "duration": 1804.2857142857142,
+                "address": "205 Church St Weston, MA 02493-2007",
+                "location": {
+                    "lat": 42.378987,
+                    "lng": -71.281635
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " Brandeis/ Roberts",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=27",
+                "freq": 15,
+                "duration": 1596,
+                "address": "1 Sawyer Rd Waltham, MA 02453-3427",
+                "location": {
+                    "lat": 42.3617311,
+                    "lng": -71.2608851
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Waltham",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=213",
+                "freq": 16,
+                "duration": 1342.5,
+                "address": "75 Carter St Waltham, MA 02453-5312",
+                "location": {
+                    "lat": 42.37472229999999,
+                    "lng": -71.2346069
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Waverley",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=215",
+                "freq": 9,
+                "duration": 1120,
+                "address": "525 Trapelo Rd Belmont, MA 02478-1403",
+                "location": {
+                    "lat": 42.3884279,
+                    "lng": -71.191856
+                }
+            },
+            {
+                "trains": [],
+                "index": 15,
+                "id": " Belmont",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=18",
+                "freq": 13,
+                "duration": 978.4615384615385,
+                "address": "Common St & Concord Ave Belmont, MA 02478",
+                "location": {
+                    "lat": 42.3822281,
+                    "lng": -71.1751093
+                }
+            },
+            {
+                "trains": [],
+                "index": 16,
+                "id": " Porter Square",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=161",
+                "freq": 17,
+                "duration": 656.4705882352941,
+                "address": "1899 Massachusetts Ave Cambridge, MA 02140",
+                "location": {
+                    "lat": 42.3884323,
+                    "lng": -71.1192779
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:47:00.000Z",
+                    "2010-03-07T07:34:00.000Z",
+                    "2010-03-07T07:50:00.000Z",
+                    "2010-03-07T08:22:00.000Z",
+                    "2010-03-07T08:54:00.000Z",
+                    "2010-03-07T09:32:00.000Z",
+                    "2010-03-07T10:18:00.000Z",
+                    "2010-03-07T11:55:00.000Z",
+                    "2010-03-07T12:50:00.000Z",
+                    "2010-03-07T02:33:00.000Z",
+                    "2010-03-07T04:33:00.000Z",
+                    "2010-03-07T05:10:00.000Z",
+                    "2010-03-07T06:07:00.000Z",
+                    "2010-03-07T08:09:00.000Z",
+                    "2010-03-07T08:55:00.000Z",
+                    "2010-03-07T09:52:00.000Z",
+                    "2010-03-07T11:48:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 17,
+                "id": " North Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=141",
+                "index": 17,
+                "address": "135 Causeway Street, Boston MA 02114",
+                "location": {
+                    "lat": 42.3661205,
+                    "lng": -71.06112929999999
+                }
+            }
+        ],
+        "num_stations": 18
+    },
+    {
+        "line_id": "WORCSTER",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Worcester / Union Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=237",
+                "freq": 17,
+                "duration": 5565.882352941177,
+                "address": "2 Washington Sq. Worcester, MA 01608",
+                "location": {
+                    "lat": 42.26124,
+                    "lng": -71.7947693
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Grafton",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=74",
+                "freq": 16,
+                "duration": 4803.75,
+                "address": "1 Pine St North Grafton, MA 01536-1856",
+                "location": {
+                    "lat": 42.246938,
+                    "lng": -71.68597799999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Westborough",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=16087",
+                "freq": 16,
+                "duration": 4537.5,
+                "address": "Smith Pkwy & Fisher St Westborough, MA 01581",
+                "location": {
+                    "lat": 42.270865,
+                    "lng": -71.647815
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Southborough",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=24151",
+                "freq": 16,
+                "duration": 4001.25,
+                "address": "87 Southville Rd Southborough, MA 01772-2023",
+                "location": {
+                    "lat": 42.2672469,
+                    "lng": -71.5236623
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Ashland",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=24437",
+                "freq": 16,
+                "duration": 3731.25,
+                "address": "On Pleasant Street next to the restaurant off of Route 135 - west of Ashland High School",
+                "location": {
+                    "lat": 42.261694,
+                    "lng": -71.478813
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Framingham",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=68",
+                "freq": 22,
+                "duration": 3049.090909090909,
+                "address": "Irving St & Concord St Framingham, MA 01701",
+                "location": {
+                    "lat": 42.2735521,
+                    "lng": -71.4107914
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " West Natick",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=225",
+                "freq": 20,
+                "duration": 2823,
+                "address": "249 W Central St Natick, MA 01760-3714,",
+                "location": {
+                    "lat": 42.2819122,
+                    "lng": -71.3907525
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Natick",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=131",
+                "freq": 20,
+                "duration": 2535,
+                "address": "1 Walnut St Natick, MA 01760-3503",
+                "location": {
+                    "lat": 42.2855254,
+                    "lng": -71.3478598
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " Wellesley Square",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=219",
+                "freq": 18,
+                "duration": 2250,
+                "address": "1 Grove St Wellesley, MA 02482-7714",
+                "location": {
+                    "lat": 42.297542,
+                    "lng": -71.293699
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Wellesley Hills",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=218",
+                "freq": 18,
+                "duration": 2020,
+                "address": "339 Washington St Wellesley, MA 02481-6201",
+                "location": {
+                    "lat": 42.31033499999999,
+                    "lng": -71.276833
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Wellesley Farms",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=217",
+                "freq": 18,
+                "duration": 1846.6666666666667,
+                "address": "90 Croton St Wellesley, MA 02481-3135",
+                "location": {
+                    "lat": 42.3232496,
+                    "lng": -71.2717782
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "id": " Auburndale",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=10",
+                "freq": 8,
+                "duration": 1665,
+                "address": "477 Lexington St Auburndale, MA 02466-1906",
+                "location": {
+                    "lat": 42.3467999,
+                    "lng": -71.24700349999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " West Newton",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=226",
+                "freq": 8,
+                "duration": 1492.5,
+                "address": "1395 Washington St Newton, MA 02465-2003",
+                "location": {
+                    "lat": 42.3483516,
+                    "lng": -71.22974289999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Newtonville",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=139",
+                "freq": 8,
+                "duration": 1275,
+                "address": "770 Washington St Newton, MA 02460-1705",
+                "location": {
+                    "lat": 42.3521347,
+                    "lng": -71.2044502
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Yawkey",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=239",
+                "freq": 10,
+                "duration": 678,
+                "address": "85 Brookline Ave Boston, MA 02215-3908",
+                "location": {
+                    "lat": 42.3464399,
+                    "lng": -71.0993659
+                }
+            },
+            {
+                "trains": [],
+                "index": 15,
+                "id": " Back Bay",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=13",
+                "freq": 22,
+                "duration": 360,
+                "address": "145 Dartmouth St Boston, MA 02116-5162",
+                "location": {
+                    "lat": 42.3474755,
+                    "lng": -71.0758283
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:31:00.000Z",
+                    "2010-03-07T06:47:00.000Z",
+                    "2010-03-07T07:36:00.000Z",
+                    "2010-03-07T07:43:00.000Z",
+                    "2010-03-07T08:16:00.000Z",
+                    "2010-03-07T08:28:00.000Z",
+                    "2010-03-07T08:51:00.000Z",
+                    "2010-03-07T09:03:00.000Z",
+                    "2010-03-07T09:40:00.000Z",
+                    "2010-03-07T10:00:00.000Z",
+                    "2010-03-07T12:25:00.000Z",
+                    "2010-03-07T01:55:00.000Z",
+                    "2010-03-07T03:45:00.000Z",
+                    "2010-03-07T05:00:00.000Z",
+                    "2010-03-07T06:31:00.000Z",
+                    "2010-03-07T07:05:00.000Z",
+                    "2010-03-07T07:17:00.000Z",
+                    "2010-03-07T07:53:00.000Z",
+                    "2010-03-07T08:31:00.000Z",
+                    "2010-03-07T09:11:00.000Z",
+                    "2010-03-07T11:00:00.000Z",
+                    "2010-03-07T01:30:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 22,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 16,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 17
+    },
+    {
+        "line_id": "FAIRMNT",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Readville",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=170",
+                "freq": 22,
+                "duration": 1500,
+                "address": "1800 Hyde Park Ave Hyde Park, MA 02136-2460",
+                "location": {
+                    "lat": 42.2378183,
+                    "lng": -71.1320626
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Fairmount",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=62",
+                "freq": 21,
+                "duration": 1320,
+                "address": "Fairmount Ave & Truman Hwy Hyde Park, MA 02136",
+                "location": {
+                    "lat": 42.2505896,
+                    "lng": -71.1162421
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Morton Street",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=126",
+                "freq": 20,
+                "duration": 1086,
+                "address": "865 Morton St Mattapan, MA 02126-2453",
+                "location": {
+                    "lat": 42.2810783,
+                    "lng": -71.0858255
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Talbot Ave",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26767",
+                "freq": 20,
+                "duration": 906,
+                "address": "",
+                "location": {
+                    "lat": 42.291739,
+                    "lng": -71.077191
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Four Corners/geneva Ave",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26776",
+                "freq": 20,
+                "duration": 786,
+                "address": "",
+                "location": {
+                    "lat": 42.306177,
+                    "lng": -71.075949
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Uphams Corner",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=208",
+                "freq": 20,
+                "duration": 666,
+                "address": "691 Dudley St Dorchester, MA 02125-2204",
+                "location": {
+                    "lat": 42.318293,
+                    "lng": -71.068659
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Newmarket",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26777",
+                "freq": 20,
+                "duration": 486,
+                "address": "",
+                "location": {
+                    "lat": 42.327324,
+                    "lng": -71.065288
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:15:00.000Z",
+                    "2010-03-07T06:55:00.000Z",
+                    "2010-03-07T07:40:00.000Z",
+                    "2010-03-07T08:20:00.000Z",
+                    "2010-03-07T09:00:00.000Z",
+                    "2010-03-07T09:45:00.000Z",
+                    "2010-03-07T10:25:00.000Z",
+                    "2010-03-07T11:25:00.000Z",
+                    "2010-03-07T12:25:00.000Z",
+                    "2010-03-07T01:25:00.000Z",
+                    "2010-03-07T02:25:00.000Z",
+                    "2010-03-07T03:25:00.000Z",
+                    "2010-03-07T04:20:00.000Z",
+                    "2010-03-07T04:45:00.000Z",
+                    "2010-03-07T05:30:00.000Z",
+                    "2010-03-07T06:15:00.000Z",
+                    "2010-03-07T06:43:00.000Z",
+                    "2010-03-07T06:50:00.000Z",
+                    "2010-03-07T07:50:00.000Z",
+                    "2010-03-07T08:50:00.000Z",
+                    "2010-03-07T09:50:00.000Z",
+                    "2010-03-07T10:45:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 22,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 7,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 8
+    },
+    {
+        "line_id": "GREENBSH",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Greenbush",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25668",
+                "freq": 12,
+                "duration": 3610,
+                "address": "247 Old Drifway (Driftway & Stockbridge Rd) Scituate, MA",
+                "location": {
+                    "lat": 42.1795,
+                    "lng": -70.7460
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " North Scituate",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25669",
+                "freq": 12,
+                "duration": 3190,
+                "address": "777 Country Way, Scituate, MA",
+                "location": {
+                    "lat": 42.2198421,
+                    "lng": -70.7876522
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Cohasset",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25670",
+                "freq": 12,
+                "duration": 2745,
+                "address": "110 Chief Justice Cushing Hwy, Cohasset, MA",
+                "location": {
+                    "lat": 42.243288,
+                    "lng": -70.837341
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Nantasket Junction",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25671",
+                "freq": 12,
+                "duration": 2525,
+                "address": "190 Summer St., Hingham, MA",
+                "location": {
+                    "lat": 42.2439383,
+                    "lng": -70.8688801
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " West Hingham",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25672",
+                "freq": 12,
+                "duration": 2225,
+                "address": "20 Fort Hill Rd., Hingham, MA",
+                "location": {
+                    "lat": 42.2366397,
+                    "lng": -70.9033251
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " East Weymouth",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25673",
+                "freq": 12,
+                "duration": 1970,
+                "address": "1590 Commercial St., Weymouth, MA",
+                "location": {
+                    "lat": 42.2177109,
+                    "lng": -70.9215063
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Weymouth Landing/ East Braintree",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25674",
+                "freq": 12,
+                "duration": 1610,
+                "address": "121 Commercial St Weymouth,MA",
+                "location": {
+                    "lat": 42.2218957,
+                    "lng": -70.9669414
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Quincy Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=166",
+                "freq": 10,
+                "duration": 996,
+                "address": "175 Thomas E Burgin Pkwy Quincy, MA 02169-4213",
+                "location": {
+                    "lat": 42.2503967,
+                    "lng": -71.0049107
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " JFK/UMASS",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=96",
+                "freq": 2,
+                "duration": 480,
+                "address": "599 Old Colony Ave Boston, MA 02127-3805",
+                "location": {
+                    "lat": 42.3212745,
+                    "lng": -71.052056
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:38:00.000Z",
+                    "2010-03-07T07:36:00.000Z",
+                    "2010-03-07T08:03:00.000Z",
+                    "2010-03-07T08:49:00.000Z",
+                    "2010-03-07T09:49:00.000Z",
+                    "2010-03-07T11:34:00.000Z",
+                    "2010-03-07T12:48:00.000Z",
+                    "2010-03-07T03:09:00.000Z",
+                    "2010-03-07T04:46:00.000Z",
+                    "2010-03-07T06:34:00.000Z",
+                    "2010-03-07T08:07:00.000Z",
+                    "2010-03-07T09:07:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 12,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 9,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 10
+    },
+    {
+        "line_id": "FRANKLIN",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Forge Park / 495",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=67",
+                "freq": 16,
+                "duration": 3798.75,
+                "address": "1000 W Central St Franklin, MA 02038-3108",
+                "location": {
+                    "lat": 42.08995059999999,
+                    "lng": -71.4390009
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Franklin",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=69",
+                "freq": 16,
+                "duration": 3386.25,
+                "address": "75 Depot St Franklin, MA 02038-1939",
+                "location": {
+                    "lat": 42.08353830000001,
+                    "lng": -71.396971
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Norfolk",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=140",
+                "freq": 14,
+                "duration": 3077.1428571428573,
+                "address": "9 Rockwood Rd Norfolk, MA 02056-1409",
+                "location": {
+                    "lat": 42.1202692,
+                    "lng": -71.32523309999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Walpole",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=212",
+                "freq": 17,
+                "duration": 2608.235294117647,
+                "address": "275 West St Walpole, MA 02081-1608",
+                "location": {
+                    "lat": 42.1427256,
+                    "lng": -71.2653112
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Plimptonville",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=158",
+                "freq": 1,
+                "duration": 2700,
+                "address": "185 Plimpton St Walpole, MA 02081-3712",
+                "location": {
+                    "lat": 42.1591935,
+                    "lng": -71.2352512
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Windsor Gardens",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=232",
+                "freq": 13,
+                "duration": 2446.153846153846,
+                "address": "Buckminster Drive Norwood, MA 02062-3525",
+                "location": {
+                    "lat": 42.17305349999999,
+                    "lng": -71.222824
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Norwood Central",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=152",
+                "freq": 19,
+                "duration": 2141.0526315789475,
+                "address": "164 Broadway Norwood, MA 02062-3404",
+                "location": {
+                    "lat": 42.1885397,
+                    "lng": -71.2001676
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Norwood Depot",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=153",
+                "freq": 14,
+                "duration": 2048.5714285714284,
+                "address": "14 Hill St Norwood, MA 02062-3650",
+                "location": {
+                    "lat": 42.1962811,
+                    "lng": -71.1966552
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " Islington",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=94",
+                "freq": 14,
+                "duration": 1834.2857142857142,
+                "address": "48 Carroll Ave Westwood, MA 02090-1444",
+                "location": {
+                    "lat": 42.22062529999999,
+                    "lng": -71.18360059999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Dedham Corp. Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=55",
+                "freq": 19,
+                "duration": 1601.0526315789473,
+                "address": "125 Allied Dr Dedham, MA 02026-6100",
+                "location": {
+                    "lat": 42.2261137,
+                    "lng": -71.17267
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Endicott",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=60",
+                "freq": 14,
+                "duration": 1474.2857142857142,
+                "address": "186 Grant Ave Dedham, MA 02026-5036",
+                "location": {
+                    "lat": 42.2329674,
+                    "lng": -71.1598818
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "id": " Readville",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26699",
+                "freq": 11,
+                "duration": 1227.2727272727273,
+                "address": "1800 Hyde Park Ave Hyde Park, MA 02136-2460",
+                "location": {
+                    "lat": 42.2378183,
+                    "lng": -71.1320626
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " Hyde Park",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=91",
+                "freq": 1,
+                "duration": 1080,
+                "address": "1 Pingree St Hyde Park, MA 02136-2751",
+                "location": {
+                    "lat": 42.2549039,
+                    "lng": -71.1242874
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Ruggles",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=182",
+                "freq": 7,
+                "duration": 548.5714285714286,
+                "address": "1150 Tremont St Roxbury Crossing, MA 02120-2102,",
+                "location": {
+                    "lat": 42.3349044,
+                    "lng": -71.08844909999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Back Bay",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=13",
+                "freq": 15,
+                "duration": 300,
+                "address": "145 Dartmouth St Boston, MA 02116-5162",
+                "location": {
+                    "lat": 42.3474755,
+                    "lng": -71.0758283
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:15:00.000Z",
+                    "2010-03-07T06:50:00.000Z",
+                    "2010-03-07T07:09:00.000Z",
+                    "2010-03-07T07:43:00.000Z",
+                    "2010-03-07T07:59:00.000Z",
+                    "2010-03-07T08:40:00.000Z",
+                    "2010-03-07T08:54:00.000Z",
+                    "2010-03-07T09:25:00.000Z",
+                    "2010-03-07T10:08:00.000Z",
+                    "2010-03-07T11:48:00.000Z",
+                    "2010-03-07T01:06:00.000Z",
+                    "2010-03-07T03:05:00.000Z",
+                    "2010-03-07T05:08:00.000Z",
+                    "2010-03-07T06:05:00.000Z",
+                    "2010-03-07T06:50:00.000Z",
+                    "2010-03-07T08:45:00.000Z",
+                    "2010-03-07T09:45:00.000Z",
+                    "2010-03-07T11:06:00.000Z",
+                    "2010-03-07T12:41:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 19,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 15,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 16
+    },
+    {
+        "line_id": "HAVRHILL",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Haverhill",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=83",
+                "freq": 13,
+                "duration": 4066.153846153846,
+                "address": "1 Washington Ave Haverhill, MA 01832-5420",
+                "location": {
+                    "lat": 42.7725724,
+                    "lng": -71.0863013
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Bradford",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=25",
+                "freq": 13,
+                "duration": 3886.153846153846,
+                "address": "10 Railroad Ave Bradford, MA 01835-7229",
+                "location": {
+                    "lat": 42.76890580000001,
+                    "lng": -71.08659349999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Lawrence",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=102",
+                "freq": 13,
+                "duration": 3226.153846153846,
+                "address": "S Union St & Merrimack St, Lawrence, MA 01843",
+                "location": {
+                    "lat": 42.6931041,
+                    "lng": -71.1534073
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Andover",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=3",
+                "freq": 14,
+                "duration": 2905.714285714286,
+                "address": "11 Lewis St Andover, MA 01810-3516",
+                "location": {
+                    "lat": 42.658209,
+                    "lng": -71.143995
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Ballardvale",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=14",
+                "freq": 14,
+                "duration": 2550,
+                "address": "195 Andover St Andover, MA 01810-5638",
+                "location": {
+                    "lat": 42.6266776,
+                    "lng": -71.1601195
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " North Wilmington",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=130",
+                "freq": 9,
+                "duration": 2253.3333333333335,
+                "address": "370 Middlesex Ave Wilmington, MA 01887-2121",
+                "location": {
+                    "lat": 42.5695083,
+                    "lng": -71.1590448
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "branch": true,
+                "id": " Wilmington",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=229",
+                "freq": 4,
+                "duration": 1695,
+                "address": "405 Main St Wilmington, MA 01887-3630",
+                "location": {
+                    "lat": 42.5464057,
+                    "lng": -71.1735873
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "branch": true,
+                "id": " Anderson/ Woburn",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=241",
+                "freq": 4,
+                "duration": 1395,
+                "address": "Atlantic Ave & Commerce Way Woburn, MA 01801-1082",
+                "location": {
+                    "lat": 42.517358,
+                    "lng": -71.143823
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " Reading",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=169",
+                "freq": 19,
+                "duration": 1777.8947368421052,
+                "address": "35 Lincoln St Reading, MA 01867-3133",
+                "location": {
+                    "lat": 42.5214486,
+                    "lng": -71.1073074
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Wakefield",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=211",
+                "freq": 19,
+                "duration": 1436.842105263158,
+                "address": "225 North Ave Wakefield, MA 01880-2314",
+                "location": {
+                    "lat": 42.5018381,
+                    "lng": -71.0750558
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Greenwood",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=76",
+                "freq": 18,
+                "duration": 1270,
+                "address": "907 Main St Wakefield, MA 01880-3933",
+                "location": {
+                    "lat": 42.4839148,
+                    "lng": -71.0675823
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "id": " Melrose Highlands",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=119",
+                "freq": 19,
+                "duration": 1130.5263157894738,
+                "address": "497 Franklin St Melrose, MA 02176-1742",
+                "location": {
+                    "lat": 42.4688127,
+                    "lng": -71.0687683
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " Melrose Cedar Park",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=118",
+                "freq": 18,
+                "duration": 1016.6666666666666,
+                "address": "Cedar Park & W Emerson St Melrose, MA 02176,",
+                "location": {
+                    "lat": 42.459191,
+                    "lng": -71.0703287
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Wyoming Hill",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=238",
+                "freq": 18,
+                "duration": 896.6666666666666,
+                "address": "40 W Wyoming Ave Melrose, MA 02176-4626",
+                "location": {
+                    "lat": 42.452011,
+                    "lng": -71.0692938
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Malden Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=109",
+                "freq": 19,
+                "duration": 666.3157894736842,
+                "address": "Commercial St & Pleasant St Malden, MA 02148",
+                "location": {
+                    "lat": 42.4273245,
+                    "lng": -71.0733896
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:14:00.000Z",
+                    "2010-03-07T06:50:00.000Z",
+                    "2010-03-07T07:25:00.000Z",
+                    "2010-03-07T07:48:00.000Z",
+                    "2010-03-07T08:00:00.000Z",
+                    "2010-03-07T08:30:00.000Z",
+                    "2010-03-07T08:39:00.000Z",
+                    "2010-03-07T09:00:00.000Z",
+                    "2010-03-07T10:14:00.000Z",
+                    "2010-03-07T10:35:00.000Z",
+                    "2010-03-07T11:09:00.000Z",
+                    "2010-03-07T01:09:00.000Z",
+                    "2010-03-07T02:12:00.000Z",
+                    "2010-03-07T03:29:00.000Z",
+                    "2010-03-07T03:49:00.000Z",
+                    "2010-03-07T04:58:00.000Z",
+                    "2010-03-07T05:32:00.000Z",
+                    "2010-03-07T06:04:00.000Z",
+                    "2010-03-07T07:08:00.000Z",
+                    "2010-03-07T07:25:00.000Z",
+                    "2010-03-07T08:28:00.000Z",
+                    "2010-03-07T09:33:00.000Z",
+                    "2010-03-07T10:42:00.000Z",
+                    "2010-03-07T11:23:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 24,
+                "id": " North Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=141",
+                "index": 15,
+                "address": "135 Causeway Street, Boston MA 02114",
+                "location": {
+                    "lat": 42.3661205,
+                    "lng": -71.06112929999999
+                }
+            }
+        ],
+        "num_stations": 16
+    },
+    {
+        "line_id": "OLCOLONY",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "branch": true,
+                "id": " Kingston",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=101",
+                "freq": 11,
+                "duration": 4129.090909090909,
+                "address": "194 Marion Dr Kingston, MA 02364-2249",
+                "location": {
+                    "lat": 41.9804054,
+                    "lng": -70.7204533
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Plymouth",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=159",
+                "freq": 4,
+                "duration": 3525,
+                "address": "385 Court St Plymouth, MA 02360-7310",
+                "location": {
+                    "lat": 41.9785297,
+                    "lng": -70.6911133
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Halifax",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=78",
+                "freq": 12,
+                "duration": 2875,
+                "address": "6 Garden Rd Halifax, MA 02338-1020",
+                "location": {
+                    "lat": 42.0134706,
+                    "lng": -70.82259789999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Hanson",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=80",
+                "freq": 12,
+                "duration": 2575,
+                "address": "1070 Main St Hanson, MA 02341-1543",
+                "location": {
+                    "lat": 42.0429029,
+                    "lng": -70.8815575
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Whitman",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=228",
+                "freq": 12,
+                "duration": 2235,
+                "address": "383 South Ave Whitman, MA 02382-2033",
+                "location": {
+                    "lat": 42.0833018,
+                    "lng": -70.92384150000001
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Abington",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=240",
+                "freq": 12,
+                "duration": 2000,
+                "address": "231 Centre Ave Abington, MA 02351-2278",
+                "location": {
+                    "lat": 42.1081734,
+                    "lng": -70.93532929999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " South Weymouth",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=196",
+                "freq": 12,
+                "duration": 1660,
+                "address": "89 Trotter Rd Weymouth, MA 02190-4100",
+                "location": {
+                    "lat": 42.1542141,
+                    "lng": -70.9505373
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "branch": true,
+                "id": " Middleboro/ Lakeville",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=120",
+                "freq": 12,
+                "duration": 3600,
+                "address": "125 Commercial Dr Lakeville, MA 02347-1661",
+                "location": {
+                    "lat": 41.87756299999999,
+                    "lng": -70.920079
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "branch": true,
+                "id": " Bridgewater",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=28",
+                "freq": 12,
+                "duration": 2975,
+                "address": "85 Burrill Ave Bridgewater, MA 02324-2727",
+                "location": {
+                    "lat": 41.9871934,
+                    "lng": -70.9621331
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "branch": true,
+                "id": " Campello",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=35",
+                "freq": 12,
+                "duration": 2510,
+                "address": "30 Riverside Ave Brockton, MA 02301-6811",
+                "location": {
+                    "lat": 42.0609752,
+                    "lng": -71.0124259
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "branch": true,
+                "id": " Brockton",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=30",
+                "freq": 12,
+                "duration": 2265,
+                "address": "7 Commercial St Brockton, MA 02302-2702",
+                "location": {
+                    "lat": 42.08574249999999,
+                    "lng": -71.0168611
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "branch": true,
+                "id": " Montello",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=124",
+                "freq": 12,
+                "duration": 2080,
+                "address": "150 Spark St Brockton, MA 02302-1621",
+                "location": {
+                    "lat": 42.1064526,
+                    "lng": -71.02063679999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "branch": true,
+                "id": " Holbrook/ Randolph",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=89",
+                "freq": 12,
+                "duration": 1780,
+                "address": "Union St & Center St Randolph, MA 02368",
+                "location": {
+                    "lat": 42.1554562,
+                    "lng": -71.0282625
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Braintree",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26",
+                "freq": 18,
+                "duration": 1293.3333333333333,
+                "address": "197 Ivory St Braintree, MA 02184-7139",
+                "location": {
+                    "lat": 42.2059749,
+                    "lng": -70.9997771
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Quincy Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=166",
+                "freq": 7,
+                "duration": 994.2857142857143,
+                "address": "175 Thomas E Burgin Pkwy Quincy, MA 02169-4213",
+                "location": {
+                    "lat": 42.2503967,
+                    "lng": -71.0049107
+                }
+            },
+            {
+                "trains": [],
+                "index": 15,
+                "id": " JFK/UMASS",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=96",
+                "freq": 9,
+                "duration": 433.3333333333333,
+                "address": "599 Old Colony Ave Boston, MA 02127-3805",
+                "location": {
+                    "lat": 42.3212745,
+                    "lng": -71.052056
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:17:00.000Z",
+                    "2010-03-07T06:29:00.000Z",
+                    "2010-03-07T06:58:00.000Z",
+                    "2010-03-07T07:17:00.000Z",
+                    "2010-03-07T07:56:00.000Z",
+                    "2010-03-07T08:10:00.000Z",
+                    "2010-03-07T08:18:00.000Z",
+                    "2010-03-07T08:35:00.000Z",
+                    "2010-03-07T09:05:00.000Z",
+                    "2010-03-07T09:34:00.000Z",
+                    "2010-03-07T10:36:00.000Z",
+                    "2010-03-07T11:46:00.000Z",
+                    "2010-03-07T12:07:00.000Z",
+                    "2010-03-07T01:05:00.000Z",
+                    "2010-03-07T02:06:00.000Z",
+                    "2010-03-07T03:26:00.000Z",
+                    "2010-03-07T04:24:00.000Z",
+                    "2010-03-07T04:59:00.000Z",
+                    "2010-03-07T06:06:00.000Z",
+                    "2010-03-07T07:15:00.000Z",
+                    "2010-03-07T07:28:00.000Z",
+                    "2010-03-07T08:45:00.000Z",
+                    "2010-03-07T09:49:00.000Z",
+                    "2010-03-07T10:22:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 24,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 16,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 17
+    },
+    {
+        "line_id": "LOWELL",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Lowell",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=107",
+                "freq": 22,
+                "duration": 2689.090909090909,
+                "address": "101 Thorndike St Lowell, MA 01852-3308",
+                "location": {
+                    "lat": 42.6388893,
+                    "lng": -71.3151484
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " North Billerica",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=143",
+                "freq": 22,
+                "duration": 2209.090909090909,
+                "address": "Ruggles St & Station St North Billerica, MA 01862",
+                "location": {
+                    "lat": 42.5929441,
+                    "lng": -71.2810607
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "branch": true,
+                "id": " Haverhill",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=83",
+                "freq": 4,
+                "duration": 3795,
+                "address": "1 Washington Ave Haverhill, MA 01832-5420",
+                "location": {
+                    "lat": 42.7725724,
+                    "lng": -71.0863013
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Wilmington",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=229",
+                "freq": 24,
+                "duration": 1732.5,
+                "address": "405 Main St Wilmington, MA 01887-3630",
+                "location": {
+                    "lat": 42.5464057,
+                    "lng": -71.1735873
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Anderson/ Woburn",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=241",
+                "freq": 29,
+                "duration": 1485.5172413793102,
+                "address": "Atlantic Ave & Commerce Way Woburn, MA 01801-1082",
+                "location": {
+                    "lat": 42.4843108,
+                    "lng": -70.8723371
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Mishawum",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=122",
+                "freq": 3,
+                "duration": 1460,
+                "address": "250 Mishawum Rd Woburn, MA 01801-2062",
+                "location": {
+                    "lat": 42.503472,
+                    "lng": -71.13705929999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Winchester Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=230",
+                "freq": 26,
+                "duration": 1073.076923076923,
+                "address": "29 Waterfield Rd Winchester, MA 01890",
+                "location": {
+                    "lat": 42.4513578,
+                    "lng": -71.1376363
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Wedgemere",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=216",
+                "freq": 26,
+                "duration": 941.5384615384615,
+                "address": "25 Mystic Valley Pkwy Winchester, MA 01890",
+                "location": {
+                    "lat": 42.439747,
+                    "lng": -71.1452577
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " West Medford",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=224",
+                "freq": 26,
+                "duration": 701.5384615384615,
+                "address": "481 High St Medford, MA 02155-6735",
+                "location": {
+                    "lat": 42.42131759999999,
+                    "lng": -71.1330843
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:22:00.000Z",
+                    "2010-03-07T07:05:00.000Z",
+                    "2010-03-07T07:22:00.000Z",
+                    "2010-03-07T07:40:00.000Z",
+                    "2010-03-07T07:48:00.000Z",
+                    "2010-03-07T08:05:00.000Z",
+                    "2010-03-07T08:26:00.000Z",
+                    "2010-03-07T08:39:00.000Z",
+                    "2010-03-07T08:57:00.000Z",
+                    "2010-03-07T09:10:00.000Z",
+                    "2010-03-07T09:42:00.000Z",
+                    "2010-03-07T09:59:00.000Z",
+                    "2010-03-07T10:59:00.000Z",
+                    "2010-03-07T11:59:00.000Z",
+                    "2010-03-07T12:59:00.000Z",
+                    "2010-03-07T01:59:00.000Z",
+                    "2010-03-07T02:12:00.000Z",
+                    "2010-03-07T02:59:00.000Z",
+                    "2010-03-07T03:59:00.000Z",
+                    "2010-03-07T04:59:00.000Z",
+                    "2010-03-07T05:15:00.000Z",
+                    "2010-03-07T05:32:00.000Z",
+                    "2010-03-07T05:56:00.000Z",
+                    "2010-03-07T06:31:00.000Z",
+                    "2010-03-07T06:54:00.000Z",
+                    "2010-03-07T07:25:00.000Z",
+                    "2010-03-07T07:41:00.000Z",
+                    "2010-03-07T08:09:00.000Z",
+                    "2010-03-07T09:14:00.000Z",
+                    "2010-03-07T10:14:00.000Z",
+                    "2010-03-07T11:20:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 31,
+                "id": " North Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=141",
+                "index": 9,
+                "address": "135 Causeway Street, Boston MA 02114",
+                "location": {
+                    "lat": 42.3661205,
+                    "lng": -71.06112929999999
+                }
+            }
+        ],
+        "num_stations": 10
+    },
+    {
+        "line_id": "PROVSTOU",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Wickford Junction",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26678",
+                "freq": 8,
+                "duration": 6247.5,
+                "address": "1011 Ten Rod Road, North Kingstown, RI",
+                "location": {
+                    "lat": 41.5820132,
+                    "lng": -71.4942401
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " TF Green Airport",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=26662",
+                "freq": 8,
+                "duration": 5340,
+                "address": "700 Jefferson Blvd. Warwick, RI 02886",
+                "location": {
+                    "lat": 41.727973,
+                    "lng": -71.4427259
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Providence",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=163",
+                "freq": 16,
+                "duration": 4200,
+                "address": "100 Gaspee St Providence, RI 02903-1133",
+                "location": {
+                    "lat": 41.829243,
+                    "lng": -71.413282
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " South Attleboro",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=193",
+                "freq": 16,
+                "duration": 3611.25,
+                "address": "1315 Newport Ave Attleboro, MA 02703-8040",
+                "location": {
+                    "lat": 41.8971077,
+                    "lng": -71.35465409999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Attleboro",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=9",
+                "freq": 17,
+                "duration": 3024.705882352941,
+                "address": "75 S Main St Attleboro, MA 02703-2906",
+                "location": {
+                    "lat": 41.9416787,
+                    "lng": -71.2847709
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Mansfield",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=112",
+                "freq": 18,
+                "duration": 2466.6666666666665,
+                "address": "1 Crocker St Mansfield, MA 02048-1905",
+                "location": {
+                    "lat": 42.032205,
+                    "lng": -71.219994
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Sharon",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=187",
+                "freq": 17,
+                "duration": 1965.8823529411766,
+                "address": "1 Upland Rd Sharon, MA 02067-1752",
+                "location": {
+                    "lat": 42.12573630000001,
+                    "lng": -71.1847155
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "branch": true,
+                "id": " Stoughton",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=203",
+                "freq": 16,
+                "duration": 2085,
+                "address": "45 Wyman St Stoughton, MA 02072-2908",
+                "location": {
+                    "lat": 42.124196,
+                    "lng": -71.103443
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "branch": true,
+                "id": " Canton Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=36",
+                "freq": 9,
+                "duration": 1713.3333333333333,
+                "address": "710 Washington St Canton, MA 02021-3036",
+                "location": {
+                    "lat": 42.156647,
+                    "lng": -71.146045
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Canton Junction",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=37",
+                "freq": 24,
+                "duration": 1545,
+                "address": "Beaumont St & Sherman St Canton, MA 02021",
+                "location": {
+                    "lat": 42.1652248,
+                    "lng": -71.1537446
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Route 128",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=178",
+                "freq": 29,
+                "duration": 1212.4137931034484,
+                "address": "Blue Hill Dr & University Ave Westwood, MA 02090",
+                "location": {
+                    "lat": 42.2153623,
+                    "lng": -71.1558962
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "id": " Hyde Park",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=91",
+                "freq": 21,
+                "duration": 960,
+                "address": "1 Pingree St Hyde Park, MA 02136-2751",
+                "location": {
+                    "lat": 42.2549039,
+                    "lng": -71.1242874
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " Ruggles",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=182",
+                "freq": 10,
+                "duration": 528,
+                "address": "1150 Tremont St Roxbury Crossing, MA 02120-2102,",
+                "location": {
+                    "lat": 42.3349044,
+                    "lng": -71.08844909999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Back Bay",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=13",
+                "freq": 34,
+                "duration": 300,
+                "address": "145 Dartmouth St Boston, MA 02116-5162",
+                "location": {
+                    "lat": 42.3474755,
+                    "lng": -71.0758283
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:20:00.000Z",
+                    "2010-03-07T06:40:00.000Z",
+                    "2010-03-07T07:04:00.000Z",
+                    "2010-03-07T07:19:00.000Z",
+                    "2010-03-07T07:33:00.000Z",
+                    "2010-03-07T07:45:00.000Z",
+                    "2010-03-07T08:07:00.000Z",
+                    "2010-03-07T08:16:00.000Z",
+                    "2010-03-07T08:32:00.000Z",
+                    "2010-03-07T08:51:00.000Z",
+                    "2010-03-07T09:03:00.000Z",
+                    "2010-03-07T09:32:00.000Z",
+                    "2010-03-07T09:49:00.000Z",
+                    "2010-03-07T10:17:00.000Z",
+                    "2010-03-07T10:57:00.000Z",
+                    "2010-03-07T11:20:00.000Z",
+                    "2010-03-07T12:25:00.000Z",
+                    "2010-03-07T02:50:00.000Z",
+                    "2010-03-07T02:54:00.000Z",
+                    "2010-03-07T03:58:00.000Z",
+                    "2010-03-07T05:20:00.000Z",
+                    "2010-03-07T05:32:00.000Z",
+                    "2010-03-07T06:13:00.000Z",
+                    "2010-03-07T06:22:00.000Z",
+                    "2010-03-07T07:03:00.000Z",
+                    "2010-03-07T07:17:00.000Z",
+                    null,
+                    "2010-03-07T07:49:00.000Z",
+                    "2010-03-07T08:09:00.000Z",
+                    "2010-03-07T08:34:00.000Z",
+                    null,
+                    "2010-03-07T09:15:00.000Z",
+                    "2010-03-07T09:25:00.000Z",
+                    "2010-03-07T10:24:00.000Z",
+                    "2010-03-07T11:50:00.000Z",
+                    "2010-03-07T12:25:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 36,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 14,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 15
+    },
+    {
+        "line_id": "NEEDHAM",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Needham Heights",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=133",
+                "freq": 16,
+                "duration": 2430,
+                "address": "95 West St Needham, MA 02494-1320",
+                "location": {
+                    "lat": 42.2931387,
+                    "lng": -71.235098
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Needham Center",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=132",
+                "freq": 16,
+                "duration": 2190,
+                "address": "Great Plain Ave & Eaton Sq Needham, MA 02492",
+                "location": {
+                    "lat": 42.2802294,
+                    "lng": -71.2378468
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " Needham Junction",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=134",
+                "freq": 16,
+                "duration": 1950,
+                "address": "51 Junction St Needham, MA 02492-2919",
+                "location": {
+                    "lat": 42.2731872,
+                    "lng": -71.2368003
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Hersey",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=86",
+                "freq": 16,
+                "duration": 1751.25,
+                "address": "Great Plain Ave & Broad Meadow Rd Needham, MA 02492",
+                "location": {
+                    "lat": 42.2802294,
+                    "lng": -71.2378468
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " West Roxbury",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=227",
+                "freq": 16,
+                "duration": 1402.5,
+                "address": "450 Lagrange St West Roxbury, MA 02132-3226,",
+                "location": {
+                    "lat": 42.2816543,
+                    "lng": -71.1600303
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Highland",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=87",
+                "freq": 14,
+                "duration": 1272.857142857143,
+                "address": "Corey St & Hastings St West Roxbury, MA 02132",
+                "location": {
+                    "lat": 42.2929057,
+                    "lng": -71.1620385
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Bellevue",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=17",
+                "freq": 14,
+                "duration": 1131.4285714285713,
+                "address": "35 Colbert St West Roxbury, MA 02132-1239",
+                "location": {
+                    "lat": 42.2867912,
+                    "lng": -71.145695
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "id": " Roslindale Village",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=177",
+                "freq": 14,
+                "duration": 972.8571428571429,
+                "address": "1 Belgrade Ave Roslindale, MA 02131-3025",
+                "location": {
+                    "lat": 42.2871953,
+                    "lng": -71.1297505
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "id": " Forest Hills",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=66",
+                "freq": 16,
+                "duration": 795,
+                "address": "Washington St & Hyde Park Ave Jamaica Plain, MA 02130, US",
+                "location": {
+                    "lat": 42.300523,
+                    "lng": -71.113686
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "id": " Ruggles",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=182",
+                "freq": 12,
+                "duration": 535,
+                "address": "1150 Tremont St Roxbury Crossing, MA 02120-2102,",
+                "location": {
+                    "lat": 42.3349044,
+                    "lng": -71.08844909999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "id": " Back Bay",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=13",
+                "freq": 16,
+                "duration": 300,
+                "address": "145 Dartmouth St Boston, MA 02116-5162",
+                "location": {
+                    "lat": 42.3474755,
+                    "lng": -71.0758283
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:50:00.000Z",
+                    "2010-03-07T07:29:00.000Z",
+                    "2010-03-07T08:14:00.000Z",
+                    "2010-03-07T08:42:00.000Z",
+                    "2010-03-07T09:13:00.000Z",
+                    "2010-03-07T10:16:00.000Z",
+                    "2010-03-07T11:33:00.000Z",
+                    "2010-03-07T01:33:00.000Z",
+                    "2010-03-07T03:50:00.000Z",
+                    "2010-03-07T04:27:00.000Z",
+                    "2010-03-07T05:42:00.000Z",
+                    "2010-03-07T06:17:00.000Z",
+                    "2010-03-07T08:01:00.000Z",
+                    "2010-03-07T08:36:00.000Z",
+                    "2010-03-07T09:38:00.000Z",
+                    "2010-03-07T10:47:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 16,
+                "id": " South Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+                "index": 11,
+                "address": "Atlantic Ave & Summer St Boston, MA 02110",
+                "location": {
+                    "lat": 42.352311,
+                    "lng": -71.055304
+                }
+            }
+        ],
+        "num_stations": 12
+    },
+    {
+        "line_id": "NBRYROCK",
+        "stations": [
+            {
+                "trains": [],
+                "index": 0,
+                "id": " Rockport",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=175",
+                "freq": 12,
+                "duration": 4220,
+                "address": "17 Railroad Ave Rockport, MA 01966-1463",
+                "location": {
+                    "lat": 42.6563204,
+                    "lng": -70.6261128
+                }
+            },
+            {
+                "trains": [],
+                "index": 1,
+                "id": " Gloucester",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=71",
+                "freq": 12,
+                "duration": 3740,
+                "address": "75 Railroad Ave Gloucester, MA 01930-3540",
+                "location": {
+                    "lat": 42.6161994,
+                    "lng": -70.66874949999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 2,
+                "id": " West Gloucester",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=223",
+                "freq": 12,
+                "duration": 3440,
+                "address": "290 Essex Ave Gloucester, MA 01930-2350",
+                "location": {
+                    "lat": 42.610884,
+                    "lng": -70.70642029999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 3,
+                "id": " Manchester",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=111",
+                "freq": 12,
+                "duration": 3060,
+                "address": "40 Beach St Manchester, MA 01944-1468",
+                "location": {
+                    "lat": 42.5736093,
+                    "lng": -70.77027300000002
+                }
+            },
+            {
+                "trains": [],
+                "index": 4,
+                "id": " Beverly Farms",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=20",
+                "freq": 12,
+                "duration": 2765,
+                "address": "1 Oak St Beverly, MA 01915-2205,",
+                "location": {
+                    "lat": 42.5615692,
+                    "lng": -70.8123777
+                }
+            },
+            {
+                "trains": [],
+                "index": 5,
+                "id": " Prides Crossing",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=162",
+                "freq": 3,
+                "duration": 2600,
+                "address": "600 Hale St Beverly, MA 01915-5420",
+                "location": {
+                    "lat": 42.5629835,
+                    "lng": -70.8259602
+                }
+            },
+            {
+                "trains": [],
+                "index": 6,
+                "id": " Montserrat",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=125",
+                "freq": 12,
+                "duration": 2385,
+                "address": "180 Essex St Beverly, MA 01915",
+                "location": {
+                    "lat": 42.5615521,
+                    "lng": -70.8692418
+                }
+            },
+            {
+                "trains": [],
+                "index": 7,
+                "branch": true,
+                "id": " Newburyport",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=136",
+                "freq": 12,
+                "duration": 3955,
+                "address": "25 Boston Way Newburyport, MA 01950-4067",
+                "location": {
+                    "lat": 42.7977071,
+                    "lng": -70.87931449999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 8,
+                "branch": true,
+                "id": " Rowley",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=179",
+                "freq": 12,
+                "duration": 3535,
+                "address": "70 Railroad Ave Rowley, MA 01969-1211",
+                "location": {
+                    "lat": 42.7250074,
+                    "lng": -70.8587833
+                }
+            },
+            {
+                "trains": [],
+                "index": 9,
+                "branch": true,
+                "id": " Ipswich",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=93",
+                "freq": 12,
+                "duration": 3235,
+                "address": "4 Topsfield Rd Ipswich, MA 01938-2132",
+                "location": {
+                    "lat": 42.6772091,
+                    "lng": -70.8407392
+                }
+            },
+            {
+                "trains": [],
+                "index": 10,
+                "branch": true,
+                "id": " Hamilton/ Wenham",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=79",
+                "freq": 13,
+                "duration": 2783.076923076923,
+                "address": "Bay Rd & Walnut Rd Hamilton, MA 01982",
+                "location": {
+                    "lat": 42.6107953,
+                    "lng": -70.8741573
+                }
+            },
+            {
+                "trains": [],
+                "index": 11,
+                "branch": true,
+                "id": " North Beverly",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=142",
+                "freq": 13,
+                "duration": 2543.076923076923,
+                "address": "Enon St & Dodge St Beverly, MA 01915",
+                "location": {
+                    "lat": 42.5867224,
+                    "lng": -70.8853185
+                }
+            },
+            {
+                "trains": [],
+                "index": 12,
+                "id": " Beverly",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=19",
+                "freq": 29,
+                "duration": 2172.4137931034484,
+                "address": "12 Park St Beverly, MA 01915-4202",
+                "location": {
+                    "lat": 42.5468728,
+                    "lng": -70.8852428
+                }
+            },
+            {
+                "trains": [],
+                "index": 13,
+                "id": " Salem",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=184",
+                "freq": 28,
+                "duration": 1909.2857142857142,
+                "address": "252 Bridge St Salem, MA 01970-3980",
+                "location": {
+                    "lat": 42.5238795,
+                    "lng": -70.89887379999999
+                }
+            },
+            {
+                "trains": [],
+                "index": 14,
+                "id": " Swampscott",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=206",
+                "freq": 25,
+                "duration": 1512,
+                "address": "Burrill St & Railroad Ave Swampscott, MA 01907",
+                "location": {
+                    "lat": 42.4718952,
+                    "lng": -70.9217316
+                }
+            },
+            {
+                "trains": [],
+                "index": 15,
+                "id": " Lynn",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=108",
+                "freq": 25,
+                "duration": 1327.2,
+                "address": "325 Broad St Lynn, MA 01901-1511",
+                "location": {
+                    "lat": 42.461721,
+                    "lng": -70.945866
+                }
+            },
+            {
+                "trains": [],
+                "index": 16,
+                "id": " River Works",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=174",
+                "freq": 15,
+                "duration": 1216,
+                "address": "1000 Western Ave Lynn, MA 01910 General Electric plant (employees only)",
+                "location": {
+                    "lat": 42.4542078,
+                    "lng": -70.9752045
+                }
+            },
+            {
+                "trains": [],
+                "index": 17,
+                "id": " Chelsea",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=46",
+                "freq": 26,
+                "duration": 770.7692307692307,
+                "address": "Arlington St & 6th St Chelsea, MA 02150",
+                "location": {
+                    "lat": 42.3956847,
+                    "lng": -71.034808
+                }
+            },
+            {
+                "trains": [
+                    "2010-03-07T06:16:00.000Z",
+                    "2010-03-07T06:27:00.000Z",
+                    "2010-03-07T06:55:00.000Z",
+                    "2010-03-07T07:19:00.000Z",
+                    "2010-03-07T07:38:00.000Z",
+                    "2010-03-07T07:52:00.000Z",
+                    "2010-03-07T08:10:00.000Z",
+                    "2010-03-07T08:25:00.000Z",
+                    "2010-03-07T08:33:00.000Z",
+                    "2010-03-07T08:46:00.000Z",
+                    "2010-03-07T09:01:00.000Z",
+                    "2010-03-07T09:54:00.000Z",
+                    "2010-03-07T10:18:00.000Z",
+                    "2010-03-07T10:32:00.000Z",
+                    "2010-03-07T11:15:00.000Z",
+                    "2010-03-07T12:11:00.000Z",
+                    "2010-03-07T01:08:00.000Z",
+                    "2010-03-07T02:07:00.000Z",
+                    "2010-03-07T03:10:00.000Z",
+                    "2010-03-07T03:49:00.000Z",
+                    "2010-03-07T05:10:00.000Z",
+                    "2010-03-07T05:41:00.000Z",
+                    "2010-03-07T06:15:00.000Z",
+                    "2010-03-07T06:40:00.000Z",
+                    "2010-03-07T07:02:00.000Z",
+                    "2010-03-07T07:34:00.000Z",
+                    null,
+                    "2010-03-07T08:54:00.000Z",
+                    "2010-03-07T10:02:00.000Z",
+                    null,
+                    "2010-03-07T11:56:00.000Z"
+                ],
+                "duration": 0,
+                "terminal": true,
+                "freq": 31,
+                "id": " North Station",
+                "link": "/schedules_and_maps/rail/lines/stations/?stopId=141",
+                "index": 18,
+                "address": "135 Causeway Street, Boston MA 02114",
+                "location": {
+                    "lat": 42.3661205,
+                    "lng": -71.06112929999999
+                }
+            }
+        ],
+        "num_stations": 19
+    }
+]

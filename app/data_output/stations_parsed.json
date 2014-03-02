@@ -1,0 +1,3887 @@
+{
+    "stations": [
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Fitchburg",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=65",
+            "freq": 13,
+            "duration": 5266.153846153846,
+            "address": "100 Main St Fitchburg, MA 01420-7805",
+            "location": {
+                "lat": 42.581038,
+                "lng": -71.792666
+            },
+            "psf": "108",
+            "value_index": "153800",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " North Leominster",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=129",
+            "freq": 13,
+            "duration": 4823.076923076923,
+            "address": "34 Nashua St Leominster, MA 01453-3312",
+            "location": {
+                "lat": 42.5387493,
+                "lng": -71.7395563
+            },
+            "psf": "138",
+            "value_index": "198100",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Shirley",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=189",
+            "freq": 13,
+            "duration": 4384.615384615385,
+            "address": "Ayer Rd & Phoenix St Shirley, MA 01464",
+            "location": {
+                "lat": 42.5256978,
+                "lng": -71.5808748
+            },
+            "psf": "136",
+            "value_index": "259400",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Ayer",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=12",
+            "freq": 13,
+            "duration": 4070.769230769231,
+            "address": "70 Main St Ayer, MA 01432-1337",
+            "location": {
+                "lat": 42.5599238,
+                "lng": -71.5894156
+            },
+            "psf": "169",
+            "value_index": "243200",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Littleton / Rte 495",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=105",
+            "freq": 13,
+            "duration": 3563.076923076923,
+            "address": "261 Foster St Littleton, MA 01460",
+            "location": {
+                "lat": 42.5192444,
+                "lng": -71.50256070000002
+            },
+            "psf": "218",
+            "value_index": "391200",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " South Acton",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=192",
+            "freq": 17,
+            "duration": 3130.5882352941176,
+            "address": "10 Central St Acton, MA 01720-3521",
+            "location": {
+                "lat": 42.462185,
+                "lng": -71.456644
+            },
+            "psf": "240",
+            "value_index": "481000",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " West Concord",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=222",
+            "freq": 16,
+            "duration": 2853.75,
+            "address": "Commonwealth Ave & Main St West Concord, MA 01742",
+            "location": {
+                "lat": 42.4564754,
+                "lng": -71.3921975
+            },
+            "psf": "345",
+            "value_index": "752300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Concord",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=52",
+            "freq": 16,
+            "duration": 2490,
+            "address": "90 Thoreau St Concord, MA 01742-2408",
+            "location": {
+                "lat": 42.4568091,
+                "lng": -71.3574553
+            },
+            "psf": "345",
+            "value_index": "752300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " Lincoln",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=104",
+            "freq": 16,
+            "duration": 2137.5,
+            "address": "160 Lincoln Rd Lincoln, MA 01773-3834",
+            "location": {
+                "lat": 42.4142285,
+                "lng": -71.3253661
+            },
+            "psf": "313",
+            "value_index": "907300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "id": " Silver Hill",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=190",
+            "freq": 2,
+            "duration": 2160,
+            "address": "Silver Hill Rd & Merriam St Weston, MA 02493",
+            "location": {
+                "lat": 42.418957,
+                "lng": -71.29472299999999
+            },
+            "psf": "423",
+            "value_index": "1243700",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "id": " Hastings",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=82",
+            "freq": 5,
+            "duration": 2004,
+            "address": "105 Viles St Weston, MA 02493-1700",
+            "location": {
+                "lat": 42.3856476,
+                "lng": -71.2892466
+            },
+            "psf": "423",
+            "value_index": "1243700",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 11,
+            "id": " Kendal Green",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=97",
+            "freq": 14,
+            "duration": 1804.2857142857142,
+            "address": "205 Church St Weston, MA 02493-2007",
+            "location": {
+                "lat": 42.378987,
+                "lng": -71.281635
+            },
+            "psf": "423",
+            "value_index": "1243700",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "id": " Brandeis/ Roberts",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=27",
+            "freq": 15,
+            "duration": 1596,
+            "address": "1 Sawyer Rd Waltham, MA 02453-3427",
+            "location": {
+                "lat": 42.3617311,
+                "lng": -71.2608851
+            },
+            "psf": "281",
+            "value_index": "423100",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Waltham",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=213",
+            "freq": 16,
+            "duration": 1342.5,
+            "address": "75 Carter St Waltham, MA 02453-5312",
+            "location": {
+                "lat": 42.37472229999999,
+                "lng": -71.2346069
+            },
+            "psf": "281",
+            "value_index": "423100",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 14,
+            "id": " Waverley",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=215",
+            "freq": 9,
+            "duration": 1120,
+            "address": "525 Trapelo Rd Belmont, MA 02478-1403",
+            "location": {
+                "lat": 42.3884279,
+                "lng": -71.191856
+            },
+            "psf": "402",
+            "value_index": "755300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 15,
+            "id": " Belmont",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=18",
+            "freq": 13,
+            "duration": 978.4615384615385,
+            "address": "Common St & Concord Ave Belmont, MA 02478",
+            "location": {
+                "lat": 42.3822281,
+                "lng": -71.1751093
+            },
+            "psf": "402",
+            "value_index": "755300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 16,
+            "id": " Porter Square",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=161",
+            "freq": 17,
+            "duration": 656.4705882352941,
+            "address": "1899 Massachusetts Ave Cambridge, MA 02140",
+            "location": {
+                "lat": 42.3884323,
+                "lng": -71.1192779
+            },
+            "psf": "469",
+            "value_index": "533500",
+            "passing": 17
+        },
+        {
+            "trains": [
+                "2010-03-07T06:47:00.000Z",
+                "2010-03-07T07:34:00.000Z",
+                "2010-03-07T07:50:00.000Z",
+                "2010-03-07T08:22:00.000Z",
+                "2010-03-07T08:54:00.000Z",
+                "2010-03-07T09:32:00.000Z",
+                "2010-03-07T10:18:00.000Z",
+                "2010-03-07T11:55:00.000Z",
+                "2010-03-07T12:50:00.000Z",
+                "2010-03-07T02:33:00.000Z",
+                "2010-03-07T04:33:00.000Z",
+                "2010-03-07T05:10:00.000Z",
+                "2010-03-07T06:07:00.000Z",
+                "2010-03-07T08:09:00.000Z",
+                "2010-03-07T08:55:00.000Z",
+                "2010-03-07T09:52:00.000Z",
+                "2010-03-07T11:48:00.000Z"
+            ],
+            "duration": 0,
+            "terminal": true,
+            "freq": 103,
+            "id": " North Station",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=141",
+            "index": 17,
+            "address": "135 Causeway Street, Boston MA 02114",
+            "location": {
+                "lat": 42.3661205,
+                "lng": -71.06112929999999
+            },
+            "psf": "781",
+            "value_index": "538100",
+            "passing": 103
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Worcester / Union Station",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=237",
+            "freq": 17,
+            "duration": 5565.882352941177,
+            "address": "2 Washington Sq. Worcester, MA 01608",
+            "location": {
+                "lat": 42.26124,
+                "lng": -71.7947693
+            },
+            "psf": "150",
+            "value_index": 0,
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Grafton",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=74",
+            "freq": 16,
+            "duration": 4803.75,
+            "address": "1 Pine St North Grafton, MA 01536-1856",
+            "location": {
+                "lat": 42.246938,
+                "lng": -71.68597799999999
+            },
+            "psf": "182",
+            "value_index": "265600",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Westborough",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=16087",
+            "freq": 16,
+            "duration": 4537.5,
+            "address": "Smith Pkwy & Fisher St Westborough, MA 01581",
+            "location": {
+                "lat": 42.270865,
+                "lng": -71.647815
+            },
+            "psf": "188",
+            "value_index": "389300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Southborough",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=24151",
+            "freq": 16,
+            "duration": 4001.25,
+            "address": "87 Southville Rd Southborough, MA 01772-2023",
+            "location": {
+                "lat": 42.2672469,
+                "lng": -71.5236623
+            },
+            "psf": "235",
+            "value_index": "536100",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Ashland",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=24437",
+            "freq": 16,
+            "duration": 3731.25,
+            "address": "On Pleasant Street next to the restaurant off of Route 135 - west of Ashland High School",
+            "location": {
+                "lat": 42.261694,
+                "lng": -71.478813
+            },
+            "psf": "202",
+            "value_index": "320700",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Framingham",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=68",
+            "freq": 22,
+            "duration": 3049.090909090909,
+            "address": "Irving St & Concord St Framingham, MA 01701",
+            "location": {
+                "lat": 42.2735521,
+                "lng": -71.4107914
+            },
+            "psf": "227",
+            "value_index": "339100",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " West Natick",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=225",
+            "freq": 20,
+            "duration": 2823,
+            "address": "249 W Central St Natick, MA 01760-3714,",
+            "location": {
+                "lat": 42.2819122,
+                "lng": -71.3907525
+            },
+            "psf": "268",
+            "value_index": "434900",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Natick",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=131",
+            "freq": 20,
+            "duration": 2535,
+            "address": "1 Walnut St Natick, MA 01760-3503",
+            "location": {
+                "lat": 42.2855254,
+                "lng": -71.3478598
+            },
+            "psf": "268",
+            "value_index": "434900",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " Wellesley Square",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=219",
+            "freq": 18,
+            "duration": 2250,
+            "address": "1 Grove St Wellesley, MA 02482-7714",
+            "location": {
+                "lat": 42.297542,
+                "lng": -71.293699
+            },
+            "psf": "433",
+            "value_index": "890500",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "id": " Wellesley Hills",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=218",
+            "freq": 18,
+            "duration": 2020,
+            "address": "339 Washington St Wellesley, MA 02481-6201",
+            "location": {
+                "lat": 42.31033499999999,
+                "lng": -71.276833
+            },
+            "psf": "447",
+            "value_index": "1135200",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "id": " Wellesley Farms",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=217",
+            "freq": 18,
+            "duration": 1846.6666666666667,
+            "address": "90 Croton St Wellesley, MA 02481-3135",
+            "location": {
+                "lat": 42.3232496,
+                "lng": -71.2717782
+            },
+            "psf": "447",
+            "value_index": "1135200",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 11,
+            "id": " Auburndale",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=10",
+            "freq": 8,
+            "duration": 1665,
+            "address": "477 Lexington St Auburndale, MA 02466-1906",
+            "location": {
+                "lat": 42.3467999,
+                "lng": -71.24700349999999
+            },
+            "psf": "388",
+            "value_index": "723300",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "id": " West Newton",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=226",
+            "freq": 8,
+            "duration": 1492.5,
+            "address": "1395 Washington St Newton, MA 02465-2003",
+            "location": {
+                "lat": 42.3483516,
+                "lng": -71.22974289999999
+            },
+            "psf": "405",
+            "value_index": "696000",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Newtonville",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=139",
+            "freq": 8,
+            "duration": 1275,
+            "address": "770 Washington St Newton, MA 02460-1705",
+            "location": {
+                "lat": 42.3521347,
+                "lng": -71.2044502
+            },
+            "psf": "384",
+            "value_index": "715700",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 14,
+            "id": " Yawkey",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=239",
+            "freq": 10,
+            "duration": 678,
+            "address": "85 Brookline Ave Boston, MA 02215-3908",
+            "location": {
+                "lat": 42.3464399,
+                "lng": -71.0993659
+            },
+            "psf": "662",
+            "value_index": "413200",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 15,
+            "id": " Back Bay",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=13",
+            "freq": 87,
+            "duration": 360,
+            "address": "145 Dartmouth St Boston, MA 02116-5162",
+            "location": {
+                "lat": 42.3474755,
+                "lng": -71.0758283
+            },
+            "psf": "856",
+            "value_index": "836600",
+            "passing": 87
+        },
+        {
+            "trains": [
+                "2010-03-07T06:31:00.000Z",
+                "2010-03-07T06:47:00.000Z",
+                "2010-03-07T07:36:00.000Z",
+                "2010-03-07T07:43:00.000Z",
+                "2010-03-07T08:16:00.000Z",
+                "2010-03-07T08:28:00.000Z",
+                "2010-03-07T08:51:00.000Z",
+                "2010-03-07T09:03:00.000Z",
+                "2010-03-07T09:40:00.000Z",
+                "2010-03-07T10:00:00.000Z",
+                "2010-03-07T12:25:00.000Z",
+                "2010-03-07T01:55:00.000Z",
+                "2010-03-07T03:45:00.000Z",
+                "2010-03-07T05:00:00.000Z",
+                "2010-03-07T06:31:00.000Z",
+                "2010-03-07T07:05:00.000Z",
+                "2010-03-07T07:17:00.000Z",
+                "2010-03-07T07:53:00.000Z",
+                "2010-03-07T08:31:00.000Z",
+                "2010-03-07T09:11:00.000Z",
+                "2010-03-07T11:00:00.000Z",
+                "2010-03-07T01:30:00.000Z"
+            ],
+            "duration": 0,
+            "terminal": true,
+            "freq": 151,
+            "id": " South Station",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=191",
+            "index": 16,
+            "address": "Atlantic Ave & Summer St Boston, MA 02110",
+            "location": {
+                "lat": 42.352311,
+                "lng": -71.055304
+            },
+            "psf": "717",
+            "value_index": "773600",
+            "passing": 151
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Readville",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=170",
+            "freq": 33,
+            "duration": 1500,
+            "address": "1800 Hyde Park Ave Hyde Park, MA 02136-2460",
+            "location": {
+                "lat": 42.2378183,
+                "lng": -71.1320626
+            },
+            "psf": "221",
+            "value_index": "307800",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Fairmount",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=62",
+            "freq": 21,
+            "duration": 1320,
+            "address": "Fairmount Ave & Truman Hwy Hyde Park, MA 02136",
+            "location": {
+                "lat": 42.2505896,
+                "lng": -71.1162421
+            },
+            "psf": "221",
+            "value_index": "307800",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Morton Street",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=126",
+            "freq": 20,
+            "duration": 1086,
+            "address": "865 Morton St Mattapan, MA 02126-2453",
+            "location": {
+                "lat": 42.2810783,
+                "lng": -71.0858255
+            },
+            "psf": "199",
+            "value_index": "263700",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Talbot Ave",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26767",
+            "freq": 20,
+            "duration": 906,
+            "address": "",
+            "location": {
+                "lat": 42.291739,
+                "lng": -71.077191
+            },
+            "psf": "213",
+            "value_index": "319200",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Four Corners/geneva Ave",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26776",
+            "freq": 20,
+            "duration": 786,
+            "address": "",
+            "location": {
+                "lat": 42.306177,
+                "lng": -71.075949
+            },
+            "psf": "170",
+            "value_index": "264600",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Uphams Corner",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=208",
+            "freq": 20,
+            "duration": 666,
+            "address": "691 Dudley St Dorchester, MA 02125-2204",
+            "location": {
+                "lat": 42.318293,
+                "lng": -71.068659
+            },
+            "psf": "251",
+            "value_index": "303700",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Newmarket",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26777",
+            "freq": 20,
+            "duration": 486,
+            "address": "",
+            "location": {
+                "lat": 42.327324,
+                "lng": -71.065288
+            },
+            "psf": "206",
+            "value_index": "289600",
+            "passing": 33
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Greenbush",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25668",
+            "freq": 12,
+            "duration": 3610,
+            "address": "247 Old Drifway (Driftway & Stockbridge Rd) Scituate, MA",
+            "location": {
+                "lat": 42.1795,
+                "lng": -70.746
+            },
+            "psf": "262",
+            "value_index": "488800",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " North Scituate",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25669",
+            "freq": 12,
+            "duration": 3190,
+            "address": "777 Country Way, Scituate, MA",
+            "location": {
+                "lat": 42.2198421,
+                "lng": -70.7876522
+            },
+            "psf": "262",
+            "value_index": "488800",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Cohasset",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25670",
+            "freq": 12,
+            "duration": 2745,
+            "address": "110 Chief Justice Cushing Hwy, Cohasset, MA",
+            "location": {
+                "lat": 42.243288,
+                "lng": -70.837341
+            },
+            "psf": "305",
+            "value_index": "753400",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Nantasket Junction",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25671",
+            "freq": 12,
+            "duration": 2525,
+            "address": "190 Summer St., Hingham, MA",
+            "location": {
+                "lat": 42.2439383,
+                "lng": -70.8688801
+            },
+            "psf": "330",
+            "value_index": "643800",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " West Hingham",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25672",
+            "freq": 12,
+            "duration": 2225,
+            "address": "20 Fort Hill Rd., Hingham, MA",
+            "location": {
+                "lat": 42.2366397,
+                "lng": -70.9033251
+            },
+            "psf": "330",
+            "value_index": "643800",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " East Weymouth",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25673",
+            "freq": 12,
+            "duration": 1970,
+            "address": "1590 Commercial St., Weymouth, MA",
+            "location": {
+                "lat": 42.2177109,
+                "lng": -70.9215063
+            },
+            "psf": "216",
+            "value_index": "291700",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Weymouth Landing/ East Braintree",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25674",
+            "freq": 12,
+            "duration": 1610,
+            "address": "121 Commercial St Weymouth,MA",
+            "location": {
+                "lat": 42.2218957,
+                "lng": -70.9669414
+            },
+            "psf": "220",
+            "value_index": "302600",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Quincy Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=166",
+            "freq": 17,
+            "duration": 996,
+            "address": "175 Thomas E Burgin Pkwy Quincy, MA 02169-4213",
+            "location": {
+                "lat": 42.2503967,
+                "lng": -71.0049107
+            },
+            "psf": "250",
+            "value_index": "323200",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " JFK/UMASS",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=96",
+            "freq": 11,
+            "duration": 480,
+            "address": "599 Old Colony Ave Boston, MA 02127-3805",
+            "location": {
+                "lat": 42.3212745,
+                "lng": -71.052056
+            },
+            "psf": "452",
+            "value_index": "452900",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Forge Park / 495",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=67",
+            "freq": 16,
+            "duration": 3798.75,
+            "address": "1000 W Central St Franklin, MA 02038-3108",
+            "location": {
+                "lat": 42.08995059999999,
+                "lng": -71.4390009
+            },
+            "psf": "199",
+            "value_index": "349800",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Franklin",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=69",
+            "freq": 16,
+            "duration": 3386.25,
+            "address": "75 Depot St Franklin, MA 02038-1939",
+            "location": {
+                "lat": 42.08353830000001,
+                "lng": -71.396971
+            },
+            "psf": "199",
+            "value_index": "349800",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Norfolk",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=140",
+            "freq": 14,
+            "duration": 3077.1428571428573,
+            "address": "9 Rockwood Rd Norfolk, MA 02056-1409",
+            "location": {
+                "lat": 42.1202692,
+                "lng": -71.32523309999999
+            },
+            "psf": "215",
+            "value_index": "446600",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Walpole",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=212",
+            "freq": 17,
+            "duration": 2608.235294117647,
+            "address": "275 West St Walpole, MA 02081-1608",
+            "location": {
+                "lat": 42.1427256,
+                "lng": -71.2653112
+            },
+            "psf": "227",
+            "value_index": "403300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Plimptonville",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=158",
+            "freq": 1,
+            "duration": 2700,
+            "address": "185 Plimpton St Walpole, MA 02081-3712",
+            "location": {
+                "lat": 42.1591935,
+                "lng": -71.2352512
+            },
+            "psf": "227",
+            "value_index": "403300",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Windsor Gardens",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=232",
+            "freq": 13,
+            "duration": 2446.153846153846,
+            "address": "Buckminster Drive Norwood, MA 02062-3525",
+            "location": {
+                "lat": 42.17305349999999,
+                "lng": -71.222824
+            },
+            "psf": "256",
+            "value_index": "372200",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Norwood Central",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=152",
+            "freq": 19,
+            "duration": 2141.0526315789475,
+            "address": "164 Broadway Norwood, MA 02062-3404",
+            "location": {
+                "lat": 42.1885397,
+                "lng": -71.2001676
+            },
+            "psf": "256",
+            "value_index": "372200",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Norwood Depot",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=153",
+            "freq": 14,
+            "duration": 2048.5714285714284,
+            "address": "14 Hill St Norwood, MA 02062-3650",
+            "location": {
+                "lat": 42.1962811,
+                "lng": -71.1966552
+            },
+            "psf": "256",
+            "value_index": "372200",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " Islington",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=94",
+            "freq": 14,
+            "duration": 1834.2857142857142,
+            "address": "48 Carroll Ave Westwood, MA 02090-1444",
+            "location": {
+                "lat": 42.22062529999999,
+                "lng": -71.18360059999999
+            },
+            "psf": "323",
+            "value_index": "630700",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "id": " Dedham Corp. Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=55",
+            "freq": 19,
+            "duration": 1601.0526315789473,
+            "address": "125 Allied Dr Dedham, MA 02026-6100",
+            "location": {
+                "lat": 42.2261137,
+                "lng": -71.17267
+            },
+            "psf": "274",
+            "value_index": "378600",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "id": " Endicott",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=60",
+            "freq": 14,
+            "duration": 1474.2857142857142,
+            "address": "186 Grant Ave Dedham, MA 02026-5036",
+            "location": {
+                "lat": 42.2329674,
+                "lng": -71.1598818
+            },
+            "psf": "274",
+            "value_index": "378600",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "id": " Hyde Park",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=91",
+            "freq": 22,
+            "duration": 1080,
+            "address": "1 Pingree St Hyde Park, MA 02136-2751",
+            "location": {
+                "lat": 42.2549039,
+                "lng": -71.1242874
+            },
+            "psf": "221",
+            "value_index": "307800",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Ruggles",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=182",
+            "freq": 29,
+            "duration": 548.5714285714286,
+            "address": "1150 Tremont St Roxbury Crossing, MA 02120-2102,",
+            "location": {
+                "lat": 42.3349044,
+                "lng": -71.08844909999999
+            },
+            "psf": "317",
+            "value_index": "362300",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Haverhill",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=83",
+            "freq": 17,
+            "duration": 4066.153846153846,
+            "address": "1 Washington Ave Haverhill, MA 01832-5420",
+            "location": {
+                "lat": 42.7725724,
+                "lng": -71.0863013
+            },
+            "psf": "143",
+            "value_index": "212600",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Bradford",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=25",
+            "freq": 13,
+            "duration": 3886.153846153846,
+            "address": "10 Railroad Ave Bradford, MA 01835-7229",
+            "location": {
+                "lat": 42.76890580000001,
+                "lng": -71.08659349999999
+            },
+            "psf": "144",
+            "value_index": "240200",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Lawrence",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=102",
+            "freq": 13,
+            "duration": 3226.153846153846,
+            "address": "S Union St & Merrimack St, Lawrence, MA 01843",
+            "location": {
+                "lat": 42.6931041,
+                "lng": -71.1534073
+            },
+            "psf": "148",
+            "value_index": "195900",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Andover",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=3",
+            "freq": 14,
+            "duration": 2905.714285714286,
+            "address": "11 Lewis St Andover, MA 01810-3516",
+            "location": {
+                "lat": 42.658209,
+                "lng": -71.143995
+            },
+            "psf": "223",
+            "value_index": "540400",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Ballardvale",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=14",
+            "freq": 14,
+            "duration": 2550,
+            "address": "195 Andover St Andover, MA 01810-5638",
+            "location": {
+                "lat": 42.6266776,
+                "lng": -71.1601195
+            },
+            "psf": "223",
+            "value_index": "540400",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " North Wilmington",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=130",
+            "freq": 9,
+            "duration": 2253.3333333333335,
+            "address": "370 Middlesex Ave Wilmington, MA 01887-2121",
+            "location": {
+                "lat": 42.5695083,
+                "lng": -71.1590448
+            },
+            "psf": "246",
+            "value_index": "390100",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "branch": true,
+            "id": " Wilmington",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=229",
+            "freq": 28,
+            "duration": 1695,
+            "address": "405 Main St Wilmington, MA 01887-3630",
+            "location": {
+                "lat": 42.5464057,
+                "lng": -71.1735873
+            },
+            "psf": "246",
+            "value_index": "390100"
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "branch": true,
+            "id": " Anderson/ Woburn",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=241",
+            "freq": 33,
+            "duration": 1395,
+            "address": "Atlantic Ave & Commerce Way Woburn, MA 01801-1082",
+            "location": {
+                "lat": 42.517358,
+                "lng": -71.143823
+            },
+            "psf": "254",
+            "value_index": "367100"
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " Reading",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=169",
+            "freq": 19,
+            "duration": 1777.8947368421052,
+            "address": "35 Lincoln St Reading, MA 01867-3133",
+            "location": {
+                "lat": 42.5214486,
+                "lng": -71.1073074
+            },
+            "psf": "254",
+            "value_index": "458000",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "id": " Wakefield",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=211",
+            "freq": 19,
+            "duration": 1436.842105263158,
+            "address": "225 North Ave Wakefield, MA 01880-2314",
+            "location": {
+                "lat": 42.5018381,
+                "lng": -71.0750558
+            },
+            "psf": "241",
+            "value_index": "416100",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "id": " Greenwood",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=76",
+            "freq": 18,
+            "duration": 1270,
+            "address": "907 Main St Wakefield, MA 01880-3933",
+            "location": {
+                "lat": 42.4839148,
+                "lng": -71.0675823
+            },
+            "psf": "241",
+            "value_index": "416100",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 11,
+            "id": " Melrose Highlands",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=119",
+            "freq": 19,
+            "duration": 1130.5263157894738,
+            "address": "497 Franklin St Melrose, MA 02176-1742",
+            "location": {
+                "lat": 42.4688127,
+                "lng": -71.0687683
+            },
+            "psf": "246",
+            "value_index": "433700",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "id": " Melrose Cedar Park",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=118",
+            "freq": 18,
+            "duration": 1016.6666666666666,
+            "address": "Cedar Park & W Emerson St Melrose, MA 02176,",
+            "location": {
+                "lat": 42.459191,
+                "lng": -71.0703287
+            },
+            "psf": "246",
+            "value_index": "433700",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Wyoming Hill",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=238",
+            "freq": 18,
+            "duration": 896.6666666666666,
+            "address": "40 W Wyoming Ave Melrose, MA 02176-4626",
+            "location": {
+                "lat": 42.452011,
+                "lng": -71.0692938
+            },
+            "psf": "246",
+            "value_index": "433700",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 14,
+            "id": " Malden Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=109",
+            "freq": 19,
+            "duration": 666.3157894736842,
+            "address": "Commercial St & Pleasant St Malden, MA 02148",
+            "location": {
+                "lat": 42.4273245,
+                "lng": -71.0733896
+            },
+            "psf": "218",
+            "value_index": "307200",
+            "passing": 19
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "branch": true,
+            "id": " Kingston",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=101",
+            "freq": 11,
+            "duration": 4129.090909090909,
+            "address": "194 Marion Dr Kingston, MA 02364-2249",
+            "location": {
+                "lat": 41.9804054,
+                "lng": -70.7204533
+            },
+            "psf": "201",
+            "value_index": "328000",
+            "passing": 11
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Plymouth",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=159",
+            "freq": 4,
+            "duration": 3525,
+            "address": "385 Court St Plymouth, MA 02360-7310",
+            "location": {
+                "lat": 41.9785297,
+                "lng": -70.6911133
+            },
+            "psf": "178",
+            "value_index": "285200",
+            "passing": 4
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Halifax",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=78",
+            "freq": 12,
+            "duration": 2875,
+            "address": "6 Garden Rd Halifax, MA 02338-1020",
+            "location": {
+                "lat": 42.0134706,
+                "lng": -70.82259789999999
+            },
+            "psf": "176",
+            "value_index": "265200",
+            "passing": 24
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Hanson",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=80",
+            "freq": 12,
+            "duration": 2575,
+            "address": "1070 Main St Hanson, MA 02341-1543",
+            "location": {
+                "lat": 42.0429029,
+                "lng": -70.8815575
+            },
+            "psf": "196",
+            "value_index": "316000",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Whitman",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=228",
+            "freq": 12,
+            "duration": 2235,
+            "address": "383 South Ave Whitman, MA 02382-2033",
+            "location": {
+                "lat": 42.0833018,
+                "lng": -70.92384150000001
+            },
+            "psf": "167",
+            "value_index": "261600",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Abington",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=240",
+            "freq": 12,
+            "duration": 2000,
+            "address": "231 Centre Ave Abington, MA 02351-2278",
+            "location": {
+                "lat": 42.1081734,
+                "lng": -70.93532929999999
+            },
+            "psf": "180",
+            "value_index": "280000",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " South Weymouth",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=196",
+            "freq": 12,
+            "duration": 1660,
+            "address": "89 Trotter Rd Weymouth, MA 02190-4100",
+            "location": {
+                "lat": 42.1542141,
+                "lng": -70.9505373
+            },
+            "psf": "218",
+            "value_index": "319000",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "branch": true,
+            "id": " Middleboro/ Lakeville",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=120",
+            "freq": 12,
+            "duration": 3600,
+            "address": "125 Commercial Dr Lakeville, MA 02347-1661",
+            "location": {
+                "lat": 41.87756299999999,
+                "lng": -70.920079
+            },
+            "psf": "178",
+            "value_index": "306900",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "branch": true,
+            "id": " Bridgewater",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=28",
+            "freq": 12,
+            "duration": 2975,
+            "address": "85 Burrill Ave Bridgewater, MA 02324-2727",
+            "location": {
+                "lat": 41.9871934,
+                "lng": -70.9621331
+            },
+            "psf": "172",
+            "value_index": "295200",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "branch": true,
+            "id": " Campello",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=35",
+            "freq": 12,
+            "duration": 2510,
+            "address": "30 Riverside Ave Brockton, MA 02301-6811",
+            "location": {
+                "lat": 42.0609752,
+                "lng": -71.0124259
+            },
+            "psf": "132",
+            "value_index": "195500",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "branch": true,
+            "id": " Brockton",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=30",
+            "freq": 12,
+            "duration": 2265,
+            "address": "7 Commercial St Brockton, MA 02302-2702",
+            "location": {
+                "lat": 42.08574249999999,
+                "lng": -71.0168611
+            },
+            "psf": "136",
+            "value_index": "183100",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 11,
+            "branch": true,
+            "id": " Montello",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=124",
+            "freq": 12,
+            "duration": 2080,
+            "address": "150 Spark St Brockton, MA 02302-1621",
+            "location": {
+                "lat": 42.1064526,
+                "lng": -71.02063679999999
+            },
+            "psf": "136",
+            "value_index": "183100",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "branch": true,
+            "id": " Holbrook/ Randolph",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=89",
+            "freq": 12,
+            "duration": 1780,
+            "address": "Union St & Center St Randolph, MA 02368",
+            "location": {
+                "lat": 42.1554562,
+                "lng": -71.0282625
+            },
+            "psf": "190",
+            "value_index": "246400",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Braintree",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26",
+            "freq": 18,
+            "duration": 1293.3333333333333,
+            "address": "197 Ivory St Braintree, MA 02184-7139",
+            "location": {
+                "lat": 42.2059749,
+                "lng": -70.9997771
+            },
+            "psf": "223",
+            "value_index": "370100",
+            "passing": 36
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Lowell",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=107",
+            "freq": 22,
+            "duration": 2689.090909090909,
+            "address": "101 Thorndike St Lowell, MA 01852-3308",
+            "location": {
+                "lat": 42.6388893,
+                "lng": -71.3151484
+            },
+            "psf": "147",
+            "value_index": "205700",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " North Billerica",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=143",
+            "freq": 22,
+            "duration": 2209.090909090909,
+            "address": "Ruggles St & Station St North Billerica, MA 01862",
+            "location": {
+                "lat": 42.5929441,
+                "lng": -71.2810607
+            },
+            "psf": "187",
+            "value_index": "342500",
+            "passing": 22
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Mishawum",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=122",
+            "freq": 3,
+            "duration": 1460,
+            "address": "250 Mishawum Rd Woburn, MA 01801-2062",
+            "location": {
+                "lat": 42.503472,
+                "lng": -71.13705929999999
+            },
+            "psf": "254",
+            "value_index": "367100",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Winchester Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=230",
+            "freq": 26,
+            "duration": 1073.076923076923,
+            "address": "29 Waterfield Rd Winchester, MA 01890",
+            "location": {
+                "lat": 42.4513578,
+                "lng": -71.1376363
+            },
+            "psf": "330",
+            "value_index": "796600",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Wedgemere",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=216",
+            "freq": 26,
+            "duration": 941.5384615384615,
+            "address": "25 Mystic Valley Pkwy Winchester, MA 01890",
+            "location": {
+                "lat": 42.439747,
+                "lng": -71.1452577
+            },
+            "psf": "330",
+            "value_index": "796600",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " West Medford",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=224",
+            "freq": 26,
+            "duration": 701.5384615384615,
+            "address": "481 High St Medford, MA 02155-6735",
+            "location": {
+                "lat": 42.42131759999999,
+                "lng": -71.1330843
+            },
+            "psf": "272",
+            "value_index": "389500",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Wickford Junction",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26678",
+            "freq": 8,
+            "duration": 6247.5,
+            "address": "1011 Ten Rod Road, North Kingstown, RI",
+            "location": {
+                "lat": 41.5820132,
+                "lng": -71.4942401
+            },
+            "psf": "167",
+            "value_index": "265900",
+            "passing": 8
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " TF Green Airport",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=26662",
+            "freq": 8,
+            "duration": 5340,
+            "address": "700 Jefferson Blvd. Warwick, RI 02886",
+            "location": {
+                "lat": 41.727973,
+                "lng": -71.4427259
+            },
+            "psf": "147",
+            "value_index": "173000",
+            "passing": 8
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Providence",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=163",
+            "freq": 16,
+            "duration": 4200,
+            "address": "100 Gaspee St Providence, RI 02903-1133",
+            "location": {
+                "lat": 41.829243,
+                "lng": -71.413282
+            },
+            "psf": "183",
+            "value_index": "150400",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " South Attleboro",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=193",
+            "freq": 16,
+            "duration": 3611.25,
+            "address": "1315 Newport Ave Attleboro, MA 02703-8040",
+            "location": {
+                "lat": 41.8971077,
+                "lng": -71.35465409999999
+            },
+            "psf": "168",
+            "value_index": "241400",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Attleboro",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=9",
+            "freq": 17,
+            "duration": 3024.705882352941,
+            "address": "75 S Main St Attleboro, MA 02703-2906",
+            "location": {
+                "lat": 41.9416787,
+                "lng": -71.2847709
+            },
+            "psf": "168",
+            "value_index": "241400",
+            "passing": 17
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Mansfield",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=112",
+            "freq": 18,
+            "duration": 2466.6666666666665,
+            "address": "1 Crocker St Mansfield, MA 02048-1905",
+            "location": {
+                "lat": 42.032205,
+                "lng": -71.219994
+            },
+            "psf": "205",
+            "value_index": "352000",
+            "passing": 18
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Sharon",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=187",
+            "freq": 17,
+            "duration": 1965.8823529411766,
+            "address": "1 Upland Rd Sharon, MA 02067-1752",
+            "location": {
+                "lat": 42.12573630000001,
+                "lng": -71.1847155
+            },
+            "psf": "242",
+            "value_index": "464600",
+            "passing": 18
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "branch": true,
+            "id": " Stoughton",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=203",
+            "freq": 16,
+            "duration": 2085,
+            "address": "45 Wyman St Stoughton, MA 02072-2908",
+            "location": {
+                "lat": 42.124196,
+                "lng": -71.103443
+            },
+            "psf": "171",
+            "value_index": "283400",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "branch": true,
+            "id": " Canton Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=36",
+            "freq": 9,
+            "duration": 1713.3333333333333,
+            "address": "710 Washington St Canton, MA 02021-3036",
+            "location": {
+                "lat": 42.156647,
+                "lng": -71.146045
+            },
+            "psf": "235",
+            "value_index": "431900",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "id": " Canton Junction",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=37",
+            "freq": 24,
+            "duration": 1545,
+            "address": "Beaumont St & Sherman St Canton, MA 02021",
+            "location": {
+                "lat": 42.1652248,
+                "lng": -71.1537446
+            },
+            "psf": "235",
+            "value_index": "431900",
+            "passing": 48
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "id": " Route 128",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=178",
+            "freq": 29,
+            "duration": 1212.4137931034484,
+            "address": "Blue Hill Dr & University Ave Westwood, MA 02090",
+            "location": {
+                "lat": 42.2153623,
+                "lng": -71.1558962
+            },
+            "psf": "323",
+            "value_index": "630700",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Needham Heights",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=133",
+            "freq": 16,
+            "duration": 2430,
+            "address": "95 West St Needham, MA 02494-1320",
+            "location": {
+                "lat": 42.2931387,
+                "lng": -71.235098
+            },
+            "psf": "372",
+            "value_index": "666400",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Needham Center",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=132",
+            "freq": 16,
+            "duration": 2190,
+            "address": "Great Plain Ave & Eaton Sq Needham, MA 02492",
+            "location": {
+                "lat": 42.2802294,
+                "lng": -71.2378468
+            },
+            "psf": "377",
+            "value_index": "776100",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " Needham Junction",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=134",
+            "freq": 16,
+            "duration": 1950,
+            "address": "51 Junction St Needham, MA 02492-2919",
+            "location": {
+                "lat": 42.2731872,
+                "lng": -71.2368003
+            },
+            "psf": "377",
+            "value_index": "776100",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Hersey",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=86",
+            "freq": 16,
+            "duration": 1751.25,
+            "address": "Great Plain Ave & Broad Meadow Rd Needham, MA 02492",
+            "location": {
+                "lat": 42.2802294,
+                "lng": -71.2378468
+            },
+            "psf": "377",
+            "value_index": "776100",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " West Roxbury",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=227",
+            "freq": 16,
+            "duration": 1402.5,
+            "address": "450 Lagrange St West Roxbury, MA 02132-3226,",
+            "location": {
+                "lat": 42.2816543,
+                "lng": -71.1600303
+            },
+            "psf": "291",
+            "value_index": "429000",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Highland",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=87",
+            "freq": 14,
+            "duration": 1272.857142857143,
+            "address": "Corey St & Hastings St West Roxbury, MA 02132",
+            "location": {
+                "lat": 42.2929057,
+                "lng": -71.1620385
+            },
+            "psf": "291",
+            "value_index": "429000",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Bellevue",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=17",
+            "freq": 14,
+            "duration": 1131.4285714285713,
+            "address": "35 Colbert St West Roxbury, MA 02132-1239",
+            "location": {
+                "lat": 42.2867912,
+                "lng": -71.145695
+            },
+            "psf": "291",
+            "value_index": "429000",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "id": " Roslindale Village",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=177",
+            "freq": 14,
+            "duration": 972.8571428571429,
+            "address": "1 Belgrade Ave Roslindale, MA 02131-3025",
+            "location": {
+                "lat": 42.2871953,
+                "lng": -71.1297505
+            },
+            "psf": "263",
+            "value_index": "355300",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "id": " Forest Hills",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=66",
+            "freq": 16,
+            "duration": 795,
+            "address": "Washington St & Hyde Park Ave Jamaica Plain, MA 02130, US",
+            "location": {
+                "lat": 42.300523,
+                "lng": -71.113686
+            },
+            "psf": "348",
+            "value_index": "427200",
+            "passing": 16
+        },
+        {
+            "trains": [],
+            "index": 0,
+            "id": " Rockport",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=175",
+            "freq": 12,
+            "duration": 4220,
+            "address": "17 Railroad Ave Rockport, MA 01966-1463",
+            "location": {
+                "lat": 42.6563204,
+                "lng": -70.6261128
+            },
+            "psf": "310",
+            "value_index": "447600",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 1,
+            "id": " Gloucester",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=71",
+            "freq": 12,
+            "duration": 3740,
+            "address": "75 Railroad Ave Gloucester, MA 01930-3540",
+            "location": {
+                "lat": 42.6161994,
+                "lng": -70.66874949999999
+            },
+            "psf": "253",
+            "value_index": "355300",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 2,
+            "id": " West Gloucester",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=223",
+            "freq": 12,
+            "duration": 3440,
+            "address": "290 Essex Ave Gloucester, MA 01930-2350",
+            "location": {
+                "lat": 42.610884,
+                "lng": -70.70642029999999
+            },
+            "psf": "253",
+            "value_index": "355300",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 3,
+            "id": " Manchester",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=111",
+            "freq": 12,
+            "duration": 3060,
+            "address": "40 Beach St Manchester, MA 01944-1468",
+            "location": {
+                "lat": 42.5736093,
+                "lng": -70.77027300000002
+            },
+            "psf": "308",
+            "value_index": "713300",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 4,
+            "id": " Beverly Farms",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=20",
+            "freq": 12,
+            "duration": 2765,
+            "address": "1 Oak St Beverly, MA 01915-2205,",
+            "location": {
+                "lat": 42.5615692,
+                "lng": -70.8123777
+            },
+            "psf": "216",
+            "value_index": "357900",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 5,
+            "id": " Prides Crossing",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=162",
+            "freq": 3,
+            "duration": 2600,
+            "address": "600 Hale St Beverly, MA 01915-5420",
+            "location": {
+                "lat": 42.5629835,
+                "lng": -70.8259602
+            },
+            "psf": "216",
+            "value_index": "357900",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 6,
+            "id": " Montserrat",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=125",
+            "freq": 12,
+            "duration": 2385,
+            "address": "180 Essex St Beverly, MA 01915",
+            "location": {
+                "lat": 42.5615521,
+                "lng": -70.8692418
+            },
+            "psf": "216",
+            "value_index": "357900",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 7,
+            "branch": true,
+            "id": " Newburyport",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=136",
+            "freq": 12,
+            "duration": 3955,
+            "address": "25 Boston Way Newburyport, MA 01950-4067",
+            "location": {
+                "lat": 42.7977071,
+                "lng": -70.87931449999999
+            },
+            "psf": "276",
+            "value_index": "422300",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 8,
+            "branch": true,
+            "id": " Rowley",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=179",
+            "freq": 12,
+            "duration": 3535,
+            "address": "70 Railroad Ave Rowley, MA 01969-1211",
+            "location": {
+                "lat": 42.7250074,
+                "lng": -70.8587833
+            },
+            "psf": "206",
+            "value_index": "393000",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 9,
+            "branch": true,
+            "id": " Ipswich",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=93",
+            "freq": 12,
+            "duration": 3235,
+            "address": "4 Topsfield Rd Ipswich, MA 01938-2132",
+            "location": {
+                "lat": 42.6772091,
+                "lng": -70.8407392
+            },
+            "psf": "219",
+            "value_index": "411800",
+            "passing": 12
+        },
+        {
+            "trains": [],
+            "index": 10,
+            "branch": true,
+            "id": " Hamilton/ Wenham",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=79",
+            "freq": 13,
+            "duration": 2783.076923076923,
+            "address": "Bay Rd & Walnut Rd Hamilton, MA 01982",
+            "location": {
+                "lat": 42.6107953,
+                "lng": -70.8741573
+            },
+            "psf": "255",
+            "value_index": "467400",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 11,
+            "branch": true,
+            "id": " North Beverly",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=142",
+            "freq": 13,
+            "duration": 2543.076923076923,
+            "address": "Enon St & Dodge St Beverly, MA 01915",
+            "location": {
+                "lat": 42.5867224,
+                "lng": -70.8853185
+            },
+            "psf": "216",
+            "value_index": "357900",
+            "passing": 13
+        },
+        {
+            "trains": [],
+            "index": 12,
+            "id": " Beverly",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=19",
+            "freq": 29,
+            "duration": 2172.4137931034484,
+            "address": "12 Park St Beverly, MA 01915-4202",
+            "location": {
+                "lat": 42.5468728,
+                "lng": -70.8852428
+            },
+            "psf": "216",
+            "value_index": "357900",
+            "passing": 58
+        },
+        {
+            "trains": [],
+            "index": 13,
+            "id": " Salem",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=184",
+            "freq": 28,
+            "duration": 1909.2857142857142,
+            "address": "252 Bridge St Salem, MA 01970-3980",
+            "location": {
+                "lat": 42.5238795,
+                "lng": -70.89887379999999
+            },
+            "psf": "191",
+            "value_index": "287800",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 14,
+            "id": " Swampscott",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=206",
+            "freq": 25,
+            "duration": 1512,
+            "address": "Burrill St & Railroad Ave Swampscott, MA 01907",
+            "location": {
+                "lat": 42.4718952,
+                "lng": -70.9217316
+            },
+            "psf": "223",
+            "value_index": "400800",
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 15,
+            "id": " Lynn",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=108",
+            "freq": 25,
+            "duration": 1327.2,
+            "address": "325 Broad St Lynn, MA 01901-1511",
+            "location": {
+                "lat": 42.461721,
+                "lng": -70.945866
+            },
+            "psf": "190",
+            "value_index": 0,
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 16,
+            "id": " River Works",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=174",
+            "freq": 15,
+            "duration": 1216,
+            "address": "1000 Western Ave Lynn, MA 01910 General Electric plant (employees only)",
+            "location": {
+                "lat": 42.4542078,
+                "lng": -70.9752045
+            },
+            "psf": "190",
+            "value_index": 0,
+            "passing": 29
+        },
+        {
+            "trains": [],
+            "index": 17,
+            "id": " Chelsea",
+            "link": "/schedules_and_maps/rail/lines/stations/?stopId=46",
+            "freq": 26,
+            "duration": 770.7692307692307,
+            "address": "Arlington St & 6th St Chelsea, MA 02150",
+            "location": {
+                "lat": 42.3956847,
+                "lng": -71.034808
+            },
+            "psf": "196",
+            "value_index": "227200",
+            "passing": 29
+        }
+    ],
+    "links": [
+        {
+            "source": " Fitchburg",
+            "target": " North Station",
+            "duration": 5266.153846153846,
+            "type": "duration"
+        },
+        {
+            "source": " North Leominster",
+            "target": " North Station",
+            "duration": 4823.076923076923,
+            "type": "duration"
+        },
+        {
+            "source": " Shirley",
+            "target": " North Station",
+            "duration": 4384.615384615385,
+            "type": "duration"
+        },
+        {
+            "source": " Ayer",
+            "target": " North Station",
+            "duration": 4070.769230769231,
+            "type": "duration"
+        },
+        {
+            "source": " Littleton / Rte 495",
+            "target": " North Station",
+            "duration": 3563.076923076923,
+            "type": "duration"
+        },
+        {
+            "source": " South Acton",
+            "target": " North Station",
+            "duration": 3130.5882352941176,
+            "type": "duration"
+        },
+        {
+            "source": " West Concord",
+            "target": " North Station",
+            "duration": 2853.75,
+            "type": "duration"
+        },
+        {
+            "source": " Concord",
+            "target": " North Station",
+            "duration": 2490,
+            "type": "duration"
+        },
+        {
+            "source": " Lincoln",
+            "target": " North Station",
+            "duration": 2137.5,
+            "type": "duration"
+        },
+        {
+            "source": " Silver Hill",
+            "target": " North Station",
+            "duration": 2160,
+            "type": "duration"
+        },
+        {
+            "source": " Hastings",
+            "target": " North Station",
+            "duration": 2004,
+            "type": "duration"
+        },
+        {
+            "source": " Kendal Green",
+            "target": " North Station",
+            "duration": 1804.2857142857142,
+            "type": "duration"
+        },
+        {
+            "source": " Brandeis/ Roberts",
+            "target": " North Station",
+            "duration": 1596,
+            "type": "duration"
+        },
+        {
+            "source": " Waltham",
+            "target": " North Station",
+            "duration": 1342.5,
+            "type": "duration"
+        },
+        {
+            "source": " Waverley",
+            "target": " North Station",
+            "duration": 1120,
+            "type": "duration"
+        },
+        {
+            "source": " Belmont",
+            "target": " North Station",
+            "duration": 978.4615384615385,
+            "type": "duration"
+        },
+        {
+            "source": " Porter Square",
+            "target": " North Station",
+            "duration": 656.4705882352941,
+            "type": "duration"
+        },
+        {
+            "source": " Worcester / Union Station",
+            "target": " South Station",
+            "duration": 5565.882352941177,
+            "type": "duration"
+        },
+        {
+            "source": " Grafton",
+            "target": " South Station",
+            "duration": 4803.75,
+            "type": "duration"
+        },
+        {
+            "source": " Westborough",
+            "target": " South Station",
+            "duration": 4537.5,
+            "type": "duration"
+        },
+        {
+            "source": " Southborough",
+            "target": " South Station",
+            "duration": 4001.25,
+            "type": "duration"
+        },
+        {
+            "source": " Ashland",
+            "target": " South Station",
+            "duration": 3731.25,
+            "type": "duration"
+        },
+        {
+            "source": " Framingham",
+            "target": " South Station",
+            "duration": 3049.090909090909,
+            "type": "duration"
+        },
+        {
+            "source": " West Natick",
+            "target": " South Station",
+            "duration": 2823,
+            "type": "duration"
+        },
+        {
+            "source": " Natick",
+            "target": " South Station",
+            "duration": 2535,
+            "type": "duration"
+        },
+        {
+            "source": " Wellesley Square",
+            "target": " South Station",
+            "duration": 2250,
+            "type": "duration"
+        },
+        {
+            "source": " Wellesley Hills",
+            "target": " South Station",
+            "duration": 2020,
+            "type": "duration"
+        },
+        {
+            "source": " Wellesley Farms",
+            "target": " South Station",
+            "duration": 1846.6666666666667,
+            "type": "duration"
+        },
+        {
+            "source": " Auburndale",
+            "target": " South Station",
+            "duration": 1665,
+            "type": "duration"
+        },
+        {
+            "source": " West Newton",
+            "target": " South Station",
+            "duration": 1492.5,
+            "type": "duration"
+        },
+        {
+            "source": " Newtonville",
+            "target": " South Station",
+            "duration": 1275,
+            "type": "duration"
+        },
+        {
+            "source": " Yawkey",
+            "target": " South Station",
+            "duration": 678,
+            "type": "duration"
+        },
+        {
+            "source": " Back Bay",
+            "target": " South Station",
+            "duration": 360,
+            "type": "duration"
+        },
+        {
+            "source": " Readville",
+            "target": " South Station",
+            "duration": 1500,
+            "type": "duration"
+        },
+        {
+            "source": " Fairmount",
+            "target": " South Station",
+            "duration": 1320,
+            "type": "duration"
+        },
+        {
+            "source": " Morton Street",
+            "target": " South Station",
+            "duration": 1086,
+            "type": "duration"
+        },
+        {
+            "source": " Talbot Ave",
+            "target": " South Station",
+            "duration": 906,
+            "type": "duration"
+        },
+        {
+            "source": " Four Corners/geneva Ave",
+            "target": " South Station",
+            "duration": 786,
+            "type": "duration"
+        },
+        {
+            "source": " Uphams Corner",
+            "target": " South Station",
+            "duration": 666,
+            "type": "duration"
+        },
+        {
+            "source": " Newmarket",
+            "target": " South Station",
+            "duration": 486,
+            "type": "duration"
+        },
+        {
+            "source": " Greenbush",
+            "target": " South Station",
+            "duration": 3610,
+            "type": "duration"
+        },
+        {
+            "source": " North Scituate",
+            "target": " South Station",
+            "duration": 3190,
+            "type": "duration"
+        },
+        {
+            "source": " Cohasset",
+            "target": " South Station",
+            "duration": 2745,
+            "type": "duration"
+        },
+        {
+            "source": " Nantasket Junction",
+            "target": " South Station",
+            "duration": 2525,
+            "type": "duration"
+        },
+        {
+            "source": " West Hingham",
+            "target": " South Station",
+            "duration": 2225,
+            "type": "duration"
+        },
+        {
+            "source": " East Weymouth",
+            "target": " South Station",
+            "duration": 1970,
+            "type": "duration"
+        },
+        {
+            "source": " Weymouth Landing/ East Braintree",
+            "target": " South Station",
+            "duration": 1610,
+            "type": "duration"
+        },
+        {
+            "source": " Quincy Center",
+            "target": " South Station",
+            "duration": 996,
+            "type": "duration"
+        },
+        {
+            "source": " JFK/UMASS",
+            "target": " South Station",
+            "duration": 480,
+            "type": "duration"
+        },
+        {
+            "source": " Forge Park / 495",
+            "target": " South Station",
+            "duration": 3798.75,
+            "type": "duration"
+        },
+        {
+            "source": " Franklin",
+            "target": " South Station",
+            "duration": 3386.25,
+            "type": "duration"
+        },
+        {
+            "source": " Norfolk",
+            "target": " South Station",
+            "duration": 3077.1428571428573,
+            "type": "duration"
+        },
+        {
+            "source": " Walpole",
+            "target": " South Station",
+            "duration": 2608.235294117647,
+            "type": "duration"
+        },
+        {
+            "source": " Plimptonville",
+            "target": " South Station",
+            "duration": 2700,
+            "type": "duration"
+        },
+        {
+            "source": " Windsor Gardens",
+            "target": " South Station",
+            "duration": 2446.153846153846,
+            "type": "duration"
+        },
+        {
+            "source": " Norwood Central",
+            "target": " South Station",
+            "duration": 2141.0526315789475,
+            "type": "duration"
+        },
+        {
+            "source": " Norwood Depot",
+            "target": " South Station",
+            "duration": 2048.5714285714284,
+            "type": "duration"
+        },
+        {
+            "source": " Islington",
+            "target": " South Station",
+            "duration": 1834.2857142857142,
+            "type": "duration"
+        },
+        {
+            "source": " Dedham Corp. Center",
+            "target": " South Station",
+            "duration": 1601.0526315789473,
+            "type": "duration"
+        },
+        {
+            "source": " Endicott",
+            "target": " South Station",
+            "duration": 1474.2857142857142,
+            "type": "duration"
+        },
+        {
+            "source": " Hyde Park",
+            "target": " South Station",
+            "duration": 1080,
+            "type": "duration"
+        },
+        {
+            "source": " Ruggles",
+            "target": " South Station",
+            "duration": 548.5714285714286,
+            "type": "duration"
+        },
+        {
+            "source": " Haverhill",
+            "target": " North Station",
+            "duration": 4066.153846153846,
+            "type": "duration"
+        },
+        {
+            "source": " Bradford",
+            "target": " North Station",
+            "duration": 3886.153846153846,
+            "type": "duration"
+        },
+        {
+            "source": " Lawrence",
+            "target": " North Station",
+            "duration": 3226.153846153846,
+            "type": "duration"
+        },
+        {
+            "source": " Andover",
+            "target": " North Station",
+            "duration": 2905.714285714286,
+            "type": "duration"
+        },
+        {
+            "source": " Ballardvale",
+            "target": " North Station",
+            "duration": 2550,
+            "type": "duration"
+        },
+        {
+            "source": " North Wilmington",
+            "target": " North Station",
+            "duration": 2253.3333333333335,
+            "type": "duration"
+        },
+        {
+            "source": " Wilmington",
+            "target": " North Station",
+            "duration": 1695,
+            "type": "duration"
+        },
+        {
+            "source": " Anderson/ Woburn",
+            "target": " North Station",
+            "duration": 1395,
+            "type": "duration"
+        },
+        {
+            "source": " Reading",
+            "target": " North Station",
+            "duration": 1777.8947368421052,
+            "type": "duration"
+        },
+        {
+            "source": " Wakefield",
+            "target": " North Station",
+            "duration": 1436.842105263158,
+            "type": "duration"
+        },
+        {
+            "source": " Greenwood",
+            "target": " North Station",
+            "duration": 1270,
+            "type": "duration"
+        },
+        {
+            "source": " Melrose Highlands",
+            "target": " North Station",
+            "duration": 1130.5263157894738,
+            "type": "duration"
+        },
+        {
+            "source": " Melrose Cedar Park",
+            "target": " North Station",
+            "duration": 1016.6666666666666,
+            "type": "duration"
+        },
+        {
+            "source": " Wyoming Hill",
+            "target": " North Station",
+            "duration": 896.6666666666666,
+            "type": "duration"
+        },
+        {
+            "source": " Malden Center",
+            "target": " North Station",
+            "duration": 666.3157894736842,
+            "type": "duration"
+        },
+        {
+            "source": " Kingston",
+            "target": " South Station",
+            "duration": 4129.090909090909,
+            "type": "duration"
+        },
+        {
+            "source": " Plymouth",
+            "target": " South Station",
+            "duration": 3525,
+            "type": "duration"
+        },
+        {
+            "source": " Halifax",
+            "target": " South Station",
+            "duration": 2875,
+            "type": "duration"
+        },
+        {
+            "source": " Hanson",
+            "target": " South Station",
+            "duration": 2575,
+            "type": "duration"
+        },
+        {
+            "source": " Whitman",
+            "target": " South Station",
+            "duration": 2235,
+            "type": "duration"
+        },
+        {
+            "source": " Abington",
+            "target": " South Station",
+            "duration": 2000,
+            "type": "duration"
+        },
+        {
+            "source": " South Weymouth",
+            "target": " South Station",
+            "duration": 1660,
+            "type": "duration"
+        },
+        {
+            "source": " Middleboro/ Lakeville",
+            "target": " South Station",
+            "duration": 3600,
+            "type": "duration"
+        },
+        {
+            "source": " Bridgewater",
+            "target": " South Station",
+            "duration": 2975,
+            "type": "duration"
+        },
+        {
+            "source": " Campello",
+            "target": " South Station",
+            "duration": 2510,
+            "type": "duration"
+        },
+        {
+            "source": " Brockton",
+            "target": " South Station",
+            "duration": 2265,
+            "type": "duration"
+        },
+        {
+            "source": " Montello",
+            "target": " South Station",
+            "duration": 2080,
+            "type": "duration"
+        },
+        {
+            "source": " Holbrook/ Randolph",
+            "target": " South Station",
+            "duration": 1780,
+            "type": "duration"
+        },
+        {
+            "source": " Braintree",
+            "target": " South Station",
+            "duration": 1293.3333333333333,
+            "type": "duration"
+        },
+        {
+            "source": " Lowell",
+            "target": " North Station",
+            "duration": 2689.090909090909,
+            "type": "duration"
+        },
+        {
+            "source": " North Billerica",
+            "target": " North Station",
+            "duration": 2209.090909090909,
+            "type": "duration"
+        },
+        {
+            "source": " Mishawum",
+            "target": " North Station",
+            "duration": 1460,
+            "type": "duration"
+        },
+        {
+            "source": " Winchester Center",
+            "target": " North Station",
+            "duration": 1073.076923076923,
+            "type": "duration"
+        },
+        {
+            "source": " Wedgemere",
+            "target": " North Station",
+            "duration": 941.5384615384615,
+            "type": "duration"
+        },
+        {
+            "source": " West Medford",
+            "target": " North Station",
+            "duration": 701.5384615384615,
+            "type": "duration"
+        },
+        {
+            "source": " Wickford Junction",
+            "target": " South Station",
+            "duration": 6247.5,
+            "type": "duration"
+        },
+        {
+            "source": " TF Green Airport",
+            "target": " South Station",
+            "duration": 5340,
+            "type": "duration"
+        },
+        {
+            "source": " Providence",
+            "target": " South Station",
+            "duration": 4200,
+            "type": "duration"
+        },
+        {
+            "source": " South Attleboro",
+            "target": " South Station",
+            "duration": 3611.25,
+            "type": "duration"
+        },
+        {
+            "source": " Attleboro",
+            "target": " South Station",
+            "duration": 3024.705882352941,
+            "type": "duration"
+        },
+        {
+            "source": " Mansfield",
+            "target": " South Station",
+            "duration": 2466.6666666666665,
+            "type": "duration"
+        },
+        {
+            "source": " Sharon",
+            "target": " South Station",
+            "duration": 1965.8823529411766,
+            "type": "duration"
+        },
+        {
+            "source": " Stoughton",
+            "target": " South Station",
+            "duration": 2085,
+            "type": "duration"
+        },
+        {
+            "source": " Canton Center",
+            "target": " South Station",
+            "duration": 1713.3333333333333,
+            "type": "duration"
+        },
+        {
+            "source": " Canton Junction",
+            "target": " South Station",
+            "duration": 1545,
+            "type": "duration"
+        },
+        {
+            "source": " Route 128",
+            "target": " South Station",
+            "duration": 1212.4137931034484,
+            "type": "duration"
+        },
+        {
+            "source": " Needham Heights",
+            "target": " South Station",
+            "duration": 2430,
+            "type": "duration"
+        },
+        {
+            "source": " Needham Center",
+            "target": " South Station",
+            "duration": 2190,
+            "type": "duration"
+        },
+        {
+            "source": " Needham Junction",
+            "target": " South Station",
+            "duration": 1950,
+            "type": "duration"
+        },
+        {
+            "source": " Hersey",
+            "target": " South Station",
+            "duration": 1751.25,
+            "type": "duration"
+        },
+        {
+            "source": " West Roxbury",
+            "target": " South Station",
+            "duration": 1402.5,
+            "type": "duration"
+        },
+        {
+            "source": " Highland",
+            "target": " South Station",
+            "duration": 1272.857142857143,
+            "type": "duration"
+        },
+        {
+            "source": " Bellevue",
+            "target": " South Station",
+            "duration": 1131.4285714285713,
+            "type": "duration"
+        },
+        {
+            "source": " Roslindale Village",
+            "target": " South Station",
+            "duration": 972.8571428571429,
+            "type": "duration"
+        },
+        {
+            "source": " Forest Hills",
+            "target": " South Station",
+            "duration": 795,
+            "type": "duration"
+        },
+        {
+            "source": " Rockport",
+            "target": " North Station",
+            "duration": 4220,
+            "type": "duration"
+        },
+        {
+            "source": " Gloucester",
+            "target": " North Station",
+            "duration": 3740,
+            "type": "duration"
+        },
+        {
+            "source": " West Gloucester",
+            "target": " North Station",
+            "duration": 3440,
+            "type": "duration"
+        },
+        {
+            "source": " Manchester",
+            "target": " North Station",
+            "duration": 3060,
+            "type": "duration"
+        },
+        {
+            "source": " Beverly Farms",
+            "target": " North Station",
+            "duration": 2765,
+            "type": "duration"
+        },
+        {
+            "source": " Prides Crossing",
+            "target": " North Station",
+            "duration": 2600,
+            "type": "duration"
+        },
+        {
+            "source": " Montserrat",
+            "target": " North Station",
+            "duration": 2385,
+            "type": "duration"
+        },
+        {
+            "source": " Newburyport",
+            "target": " North Station",
+            "duration": 3955,
+            "type": "duration"
+        },
+        {
+            "source": " Rowley",
+            "target": " North Station",
+            "duration": 3535,
+            "type": "duration"
+        },
+        {
+            "source": " Ipswich",
+            "target": " North Station",
+            "duration": 3235,
+            "type": "duration"
+        },
+        {
+            "source": " Hamilton/ Wenham",
+            "target": " North Station",
+            "duration": 2783.076923076923,
+            "type": "duration"
+        },
+        {
+            "source": " North Beverly",
+            "target": " North Station",
+            "duration": 2543.076923076923,
+            "type": "duration"
+        },
+        {
+            "source": " Beverly",
+            "target": " North Station",
+            "duration": 2172.4137931034484,
+            "type": "duration"
+        },
+        {
+            "source": " Salem",
+            "target": " North Station",
+            "duration": 1909.2857142857142,
+            "type": "duration"
+        },
+        {
+            "source": " Swampscott",
+            "target": " North Station",
+            "duration": 1512,
+            "type": "duration"
+        },
+        {
+            "source": " Lynn",
+            "target": " North Station",
+            "duration": 1327.2,
+            "type": "duration"
+        },
+        {
+            "source": " River Works",
+            "target": " North Station",
+            "duration": 1216,
+            "type": "duration"
+        },
+        {
+            "source": " Chelsea",
+            "target": " North Station",
+            "duration": 770.7692307692307,
+            "type": "duration"
+        },
+        {
+            "source": " Greenbush",
+            "target": " North Scituate",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " North Scituate",
+            "target": " Cohasset",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Cohasset",
+            "target": " Nantasket Junction",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Nantasket Junction",
+            "target": " West Hingham",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " West Hingham",
+            "target": " East Weymouth",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " East Weymouth",
+            "target": " Weymouth Landing/ East Braintree",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Weymouth Landing/ East Braintree",
+            "target": " Quincy Center",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Quincy Center",
+            "target": " JFK/UMASS",
+            "type": "frequency",
+            "value": 35
+        },
+        {
+            "source": " JFK/UMASS",
+            "target": " South Station",
+            "type": "frequency",
+            "value": 35
+        },
+        {
+            "source": " Forge Park / 495",
+            "target": " Franklin",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Franklin",
+            "target": " Norfolk",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Norfolk",
+            "target": " Walpole",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Walpole",
+            "target": " Plimptonville",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Plimptonville",
+            "target": " Windsor Gardens",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Windsor Gardens",
+            "target": " Norwood Central",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Norwood Central",
+            "target": " Norwood Depot",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Norwood Depot",
+            "target": " Islington",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Islington",
+            "target": " Dedham Corp. Center",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Dedham Corp. Center",
+            "target": " Endicott",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Endicott",
+            "target": " Readville",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Readville",
+            "target": " Hyde Park",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Hyde Park",
+            "target": " Ruggles",
+            "type": "frequency",
+            "value": 51
+        },
+        {
+            "source": " Ruggles",
+            "target": " Back Bay",
+            "type": "frequency",
+            "value": 74
+        },
+        {
+            "source": " Back Bay",
+            "target": " South Station",
+            "type": "frequency",
+            "value": 166
+        },
+        {
+            "source": " Worcester / Union Station",
+            "target": " Grafton",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Grafton",
+            "target": " Westborough",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Westborough",
+            "target": " Southborough",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Southborough",
+            "target": " Ashland",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Ashland",
+            "target": " Framingham",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Framingham",
+            "target": " West Natick",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " West Natick",
+            "target": " Natick",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Natick",
+            "target": " Wellesley Square",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Wellesley Square",
+            "target": " Wellesley Hills",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Wellesley Hills",
+            "target": " Wellesley Farms",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Wellesley Farms",
+            "target": " Auburndale",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Auburndale",
+            "target": " West Newton",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " West Newton",
+            "target": " Newtonville",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Newtonville",
+            "target": " Yawkey",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Yawkey",
+            "target": " Back Bay",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Lowell",
+            "target": " North Billerica",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " North Billerica",
+            "target": " Wilmington",
+            "type": "frequency",
+            "value": 22
+        },
+        {
+            "source": " Wilmington",
+            "target": " Anderson/ Woburn",
+            "type": "frequency",
+            "value": 24
+        },
+        {
+            "source": " Anderson/ Woburn",
+            "target": " Mishawum",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Mishawum",
+            "target": " Winchester Center",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Winchester Center",
+            "target": " Wedgemere",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Wedgemere",
+            "target": " West Medford",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " West Medford",
+            "target": " North Station",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Haverhill",
+            "target": " Wilmington",
+            "type": "frequency",
+            "value": 4
+        },
+        {
+            "source": " Readville",
+            "target": " Fairmount",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Fairmount",
+            "target": " Morton Street",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Morton Street",
+            "target": " Talbot Ave",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Talbot Ave",
+            "target": " Four Corners/geneva Ave",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Four Corners/geneva Ave",
+            "target": " Uphams Corner",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Uphams Corner",
+            "target": " Newmarket",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Newmarket",
+            "target": " South Station",
+            "type": "frequency",
+            "value": 33
+        },
+        {
+            "source": " Haverhill",
+            "target": " Bradford",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Bradford",
+            "target": " Lawrence",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Lawrence",
+            "target": " Andover",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Andover",
+            "target": " Ballardvale",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Ballardvale",
+            "target": " North Wilmington",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " North Wilmington",
+            "target": " Reading",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Reading",
+            "target": " Wakefield",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Wakefield",
+            "target": " Greenwood",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Greenwood",
+            "target": " Melrose Highlands",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Melrose Highlands",
+            "target": " Melrose Cedar Park",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Melrose Cedar Park",
+            "target": " Wyoming Hill",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Wyoming Hill",
+            "target": " Malden Center",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Malden Center",
+            "target": " North Station",
+            "type": "frequency",
+            "value": 19
+        },
+        {
+            "source": " Kingston",
+            "target": " Halifax",
+            "type": "frequency",
+            "value": 11
+        },
+        {
+            "source": " Plymouth",
+            "target": " Halifax",
+            "type": "frequency",
+            "value": 4
+        },
+        {
+            "source": " Halifax",
+            "target": " Hanson",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Hanson",
+            "target": " Whitman",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Whitman",
+            "target": " Abington",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Abington",
+            "target": " South Weymouth",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " South Weymouth",
+            "target": " Braintree",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Braintree",
+            "target": " Quincy Center",
+            "type": "frequency",
+            "value": 18
+        },
+        {
+            "source": " Middleboro/ Lakeville",
+            "target": " Bridgewater",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Bridgewater",
+            "target": " Campello",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Campello",
+            "target": " Brockton",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Brockton",
+            "target": " Montello",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Montello",
+            "target": " Holbrook/ Randolph",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Holbrook/ Randolph",
+            "target": " Braintree",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Rockport",
+            "target": " Gloucester",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Gloucester",
+            "target": " West Gloucester",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " West Gloucester",
+            "target": " Manchester",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Manchester",
+            "target": " Beverly Farms",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Beverly Farms",
+            "target": " Prides Crossing",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Prides Crossing",
+            "target": " Montserrat",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Montserrat",
+            "target": " Beverly",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Beverly",
+            "target": " Salem",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Salem",
+            "target": " Swampscott",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Swampscott",
+            "target": " Lynn",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Lynn",
+            "target": " River Works",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " River Works",
+            "target": " Chelsea",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Chelsea",
+            "target": " North Station",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Newburyport",
+            "target": " Rowley",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Rowley",
+            "target": " Ipswich",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Ipswich",
+            "target": " Hamilton/ Wenham",
+            "type": "frequency",
+            "value": 12
+        },
+        {
+            "source": " Hamilton/ Wenham",
+            "target": " North Beverly",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " North Beverly",
+            "target": " Beverly",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " Wickford Junction",
+            "target": " TF Green Airport",
+            "type": "frequency",
+            "value": 8
+        },
+        {
+            "source": " TF Green Airport",
+            "target": " Providence",
+            "type": "frequency",
+            "value": 8
+        },
+        {
+            "source": " Providence",
+            "target": " South Attleboro",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " South Attleboro",
+            "target": " Attleboro",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Attleboro",
+            "target": " Mansfield",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Mansfield",
+            "target": " Sharon",
+            "type": "frequency",
+            "value": 18
+        },
+        {
+            "source": " Sharon",
+            "target": " Canton Junction",
+            "type": "frequency",
+            "value": 18
+        },
+        {
+            "source": " Canton Junction",
+            "target": " Route 128",
+            "type": "frequency",
+            "value": 24
+        },
+        {
+            "source": " Route 128",
+            "target": " Hyde Park",
+            "type": "frequency",
+            "value": 29
+        },
+        {
+            "source": " Stoughton",
+            "target": " Canton Center",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Canton Center",
+            "target": " Canton Junction",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Needham Heights",
+            "target": " Needham Center",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Needham Center",
+            "target": " Needham Junction",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Needham Junction",
+            "target": " Hersey",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Hersey",
+            "target": " West Roxbury",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " West Roxbury",
+            "target": " Highland",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Highland",
+            "target": " Bellevue",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Bellevue",
+            "target": " Roslindale Village",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Roslindale Village",
+            "target": " Forest Hills",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Forest Hills",
+            "target": " Ruggles",
+            "type": "frequency",
+            "value": 16
+        },
+        {
+            "source": " Fitchburg",
+            "target": " North Leominster",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " North Leominster",
+            "target": " Shirley",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " Shirley",
+            "target": " Ayer",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " Ayer",
+            "target": " Littleton / Rte 495",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " Littleton / Rte 495",
+            "target": " South Acton",
+            "type": "frequency",
+            "value": 13
+        },
+        {
+            "source": " South Acton",
+            "target": " West Concord",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " West Concord",
+            "target": " Concord",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Concord",
+            "target": " Lincoln",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Lincoln",
+            "target": " Silver Hill",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Silver Hill",
+            "target": " Hastings",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Hastings",
+            "target": " Kendal Green",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Kendal Green",
+            "target": " Brandeis/ Roberts",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Brandeis/ Roberts",
+            "target": " Waltham",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Waltham",
+            "target": " Waverley",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Waverley",
+            "target": " Belmont",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Belmont",
+            "target": " Porter Square",
+            "type": "frequency",
+            "value": 17
+        },
+        {
+            "source": " Porter Square",
+            "target": " North Station",
+            "type": "frequency",
+            "value": 17
+        }
+    ]
+}
