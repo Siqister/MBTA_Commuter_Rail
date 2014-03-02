@@ -14,6 +14,9 @@
             },
             "psf": "108",
             "value_index": "153800",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 13
         },
         {
@@ -30,6 +33,9 @@
             },
             "psf": "138",
             "value_index": "198100",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 13
         },
         {
@@ -46,6 +52,9 @@
             },
             "psf": "136",
             "value_index": "259400",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 13
         },
         {
@@ -62,6 +71,9 @@
             },
             "psf": "169",
             "value_index": "243200",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 13
         },
         {
@@ -78,6 +90,9 @@
             },
             "psf": "218",
             "value_index": "391200",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 13
         },
         {
@@ -94,6 +109,9 @@
             },
             "psf": "240",
             "value_index": "481000",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -110,6 +128,9 @@
             },
             "psf": "345",
             "value_index": "752300",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -126,6 +147,9 @@
             },
             "psf": "345",
             "value_index": "752300",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -142,6 +166,9 @@
             },
             "psf": "313",
             "value_index": "907300",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -158,6 +185,9 @@
             },
             "psf": "423",
             "value_index": "1243700",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -174,6 +204,9 @@
             },
             "psf": "423",
             "value_index": "1243700",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -190,6 +223,9 @@
             },
             "psf": "423",
             "value_index": "1243700",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -206,6 +242,9 @@
             },
             "psf": "281",
             "value_index": "423100",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -222,6 +261,9 @@
             },
             "psf": "281",
             "value_index": "423100",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -238,6 +280,9 @@
             },
             "psf": "402",
             "value_index": "755300",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -254,6 +299,9 @@
             },
             "psf": "402",
             "value_index": "755300",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -270,6 +318,9 @@
             },
             "psf": "469",
             "value_index": "533500",
+            "lines": [
+                "FITCHBRG"
+            ],
             "passing": 17
         },
         {
@@ -305,6 +356,12 @@
             },
             "psf": "781",
             "value_index": "538100",
+            "lines": [
+                "FITCHBRG",
+                "HAVRHILL",
+                "LOWELL",
+                "NBRYROCK"
+            ],
             "passing": 103
         },
         {
@@ -321,6 +378,9 @@
             },
             "psf": "150",
             "value_index": 0,
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 17
         },
         {
@@ -337,6 +397,9 @@
             },
             "psf": "182",
             "value_index": "265600",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 17
         },
         {
@@ -353,6 +416,9 @@
             },
             "psf": "188",
             "value_index": "389300",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 17
         },
         {
@@ -369,6 +435,9 @@
             },
             "psf": "235",
             "value_index": "536100",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 17
         },
         {
@@ -385,6 +454,9 @@
             },
             "psf": "202",
             "value_index": "320700",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 17
         },
         {
@@ -401,6 +473,9 @@
             },
             "psf": "227",
             "value_index": "339100",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -417,6 +492,9 @@
             },
             "psf": "268",
             "value_index": "434900",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -433,6 +511,9 @@
             },
             "psf": "268",
             "value_index": "434900",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -449,6 +530,9 @@
             },
             "psf": "433",
             "value_index": "890500",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -465,6 +549,9 @@
             },
             "psf": "447",
             "value_index": "1135200",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -481,6 +568,9 @@
             },
             "psf": "447",
             "value_index": "1135200",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -497,6 +587,9 @@
             },
             "psf": "388",
             "value_index": "723300",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -513,6 +606,9 @@
             },
             "psf": "405",
             "value_index": "696000",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -529,6 +625,9 @@
             },
             "psf": "384",
             "value_index": "715700",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -545,6 +644,9 @@
             },
             "psf": "662",
             "value_index": "413200",
+            "lines": [
+                "WORCSTER"
+            ],
             "passing": 22
         },
         {
@@ -561,6 +663,12 @@
             },
             "psf": "856",
             "value_index": "836600",
+            "lines": [
+                "WORCSTER",
+                "FRANKLIN",
+                "PROVSTOU",
+                "NEEDHAM"
+            ],
             "passing": 87
         },
         {
@@ -601,6 +709,15 @@
             },
             "psf": "717",
             "value_index": "773600",
+            "lines": [
+                "WORCSTER",
+                "FAIRMNT",
+                "GREENBSH",
+                "FRANKLIN",
+                "OLCOLONY",
+                "PROVSTOU",
+                "NEEDHAM"
+            ],
             "passing": 151
         },
         {
@@ -617,6 +734,10 @@
             },
             "psf": "221",
             "value_index": "307800",
+            "lines": [
+                "FAIRMNT",
+                "FRANKLIN"
+            ],
             "passing": 33
         },
         {
@@ -633,6 +754,9 @@
             },
             "psf": "221",
             "value_index": "307800",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -649,6 +773,9 @@
             },
             "psf": "199",
             "value_index": "263700",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -665,6 +792,9 @@
             },
             "psf": "213",
             "value_index": "319200",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -681,6 +811,9 @@
             },
             "psf": "170",
             "value_index": "264600",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -697,6 +830,9 @@
             },
             "psf": "251",
             "value_index": "303700",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -713,6 +849,9 @@
             },
             "psf": "206",
             "value_index": "289600",
+            "lines": [
+                "FAIRMNT"
+            ],
             "passing": 33
         },
         {
@@ -729,6 +868,9 @@
             },
             "psf": "262",
             "value_index": "488800",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -745,6 +887,9 @@
             },
             "psf": "262",
             "value_index": "488800",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -761,6 +906,9 @@
             },
             "psf": "305",
             "value_index": "753400",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -777,6 +925,9 @@
             },
             "psf": "330",
             "value_index": "643800",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -793,6 +944,9 @@
             },
             "psf": "330",
             "value_index": "643800",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -809,6 +963,9 @@
             },
             "psf": "216",
             "value_index": "291700",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -825,6 +982,9 @@
             },
             "psf": "220",
             "value_index": "302600",
+            "lines": [
+                "GREENBSH"
+            ],
             "passing": 12
         },
         {
@@ -841,6 +1001,10 @@
             },
             "psf": "250",
             "value_index": "323200",
+            "lines": [
+                "GREENBSH",
+                "OLCOLONY"
+            ],
             "passing": 17
         },
         {
@@ -857,6 +1021,10 @@
             },
             "psf": "452",
             "value_index": "452900",
+            "lines": [
+                "GREENBSH",
+                "OLCOLONY"
+            ],
             "passing": 17
         },
         {
@@ -873,6 +1041,9 @@
             },
             "psf": "199",
             "value_index": "349800",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 16
         },
         {
@@ -889,6 +1060,9 @@
             },
             "psf": "199",
             "value_index": "349800",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 16
         },
         {
@@ -905,6 +1079,9 @@
             },
             "psf": "215",
             "value_index": "446600",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 16
         },
         {
@@ -921,6 +1098,9 @@
             },
             "psf": "227",
             "value_index": "403300",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 17
         },
         {
@@ -937,6 +1117,9 @@
             },
             "psf": "227",
             "value_index": "403300",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 17
         },
         {
@@ -953,6 +1136,9 @@
             },
             "psf": "256",
             "value_index": "372200",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 17
         },
         {
@@ -969,6 +1155,9 @@
             },
             "psf": "256",
             "value_index": "372200",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 19
         },
         {
@@ -985,6 +1174,9 @@
             },
             "psf": "256",
             "value_index": "372200",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 19
         },
         {
@@ -1001,6 +1193,9 @@
             },
             "psf": "323",
             "value_index": "630700",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 19
         },
         {
@@ -1017,6 +1212,9 @@
             },
             "psf": "274",
             "value_index": "378600",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 19
         },
         {
@@ -1033,6 +1231,9 @@
             },
             "psf": "274",
             "value_index": "378600",
+            "lines": [
+                "FRANKLIN"
+            ],
             "passing": 19
         },
         {
@@ -1049,6 +1250,10 @@
             },
             "psf": "221",
             "value_index": "307800",
+            "lines": [
+                "FRANKLIN",
+                "PROVSTOU"
+            ],
             "passing": 22
         },
         {
@@ -1065,6 +1270,11 @@
             },
             "psf": "317",
             "value_index": "362300",
+            "lines": [
+                "FRANKLIN",
+                "PROVSTOU",
+                "NEEDHAM"
+            ],
             "passing": 29
         },
         {
@@ -1081,6 +1291,10 @@
             },
             "psf": "143",
             "value_index": "212600",
+            "lines": [
+                "HAVRHILL",
+                "LOWELL"
+            ],
             "passing": 17
         },
         {
@@ -1097,6 +1311,9 @@
             },
             "psf": "144",
             "value_index": "240200",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 17
         },
         {
@@ -1113,6 +1330,9 @@
             },
             "psf": "148",
             "value_index": "195900",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 17
         },
         {
@@ -1129,6 +1349,9 @@
             },
             "psf": "223",
             "value_index": "540400",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 17
         },
         {
@@ -1145,6 +1368,9 @@
             },
             "psf": "223",
             "value_index": "540400",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 17
         },
         {
@@ -1161,6 +1387,9 @@
             },
             "psf": "246",
             "value_index": "390100",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 17
         },
         {
@@ -1177,7 +1406,11 @@
                 "lng": -71.1735873
             },
             "psf": "246",
-            "value_index": "390100"
+            "value_index": "390100",
+            "lines": [
+                "HAVRHILL",
+                "LOWELL"
+            ]
         },
         {
             "trains": [],
@@ -1193,7 +1426,11 @@
                 "lng": -71.143823
             },
             "psf": "254",
-            "value_index": "367100"
+            "value_index": "367100",
+            "lines": [
+                "HAVRHILL",
+                "LOWELL"
+            ]
         },
         {
             "trains": [],
@@ -1209,6 +1446,9 @@
             },
             "psf": "254",
             "value_index": "458000",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1225,6 +1465,9 @@
             },
             "psf": "241",
             "value_index": "416100",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1241,6 +1484,9 @@
             },
             "psf": "241",
             "value_index": "416100",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1257,6 +1503,9 @@
             },
             "psf": "246",
             "value_index": "433700",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1273,6 +1522,9 @@
             },
             "psf": "246",
             "value_index": "433700",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1289,6 +1541,9 @@
             },
             "psf": "246",
             "value_index": "433700",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1305,6 +1560,9 @@
             },
             "psf": "218",
             "value_index": "307200",
+            "lines": [
+                "HAVRHILL"
+            ],
             "passing": 19
         },
         {
@@ -1322,6 +1580,9 @@
             },
             "psf": "201",
             "value_index": "328000",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 11
         },
         {
@@ -1338,6 +1599,9 @@
             },
             "psf": "178",
             "value_index": "285200",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 4
         },
         {
@@ -1354,6 +1618,9 @@
             },
             "psf": "176",
             "value_index": "265200",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 24
         },
         {
@@ -1370,6 +1637,9 @@
             },
             "psf": "196",
             "value_index": "316000",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1386,6 +1656,9 @@
             },
             "psf": "167",
             "value_index": "261600",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1402,6 +1675,9 @@
             },
             "psf": "180",
             "value_index": "280000",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1418,6 +1694,9 @@
             },
             "psf": "218",
             "value_index": "319000",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1435,6 +1714,9 @@
             },
             "psf": "178",
             "value_index": "306900",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1452,6 +1734,9 @@
             },
             "psf": "172",
             "value_index": "295200",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1469,6 +1754,9 @@
             },
             "psf": "132",
             "value_index": "195500",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1486,6 +1774,9 @@
             },
             "psf": "136",
             "value_index": "183100",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1503,6 +1794,9 @@
             },
             "psf": "136",
             "value_index": "183100",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1520,6 +1814,9 @@
             },
             "psf": "190",
             "value_index": "246400",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 12
         },
         {
@@ -1536,6 +1833,9 @@
             },
             "psf": "223",
             "value_index": "370100",
+            "lines": [
+                "OLCOLONY"
+            ],
             "passing": 36
         },
         {
@@ -1552,6 +1852,9 @@
             },
             "psf": "147",
             "value_index": "205700",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 22
         },
         {
@@ -1568,6 +1871,9 @@
             },
             "psf": "187",
             "value_index": "342500",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 22
         },
         {
@@ -1584,6 +1890,9 @@
             },
             "psf": "254",
             "value_index": "367100",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 29
         },
         {
@@ -1600,6 +1909,9 @@
             },
             "psf": "330",
             "value_index": "796600",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 29
         },
         {
@@ -1616,6 +1928,9 @@
             },
             "psf": "330",
             "value_index": "796600",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 29
         },
         {
@@ -1632,6 +1947,9 @@
             },
             "psf": "272",
             "value_index": "389500",
+            "lines": [
+                "LOWELL"
+            ],
             "passing": 29
         },
         {
@@ -1648,6 +1966,9 @@
             },
             "psf": "167",
             "value_index": "265900",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 8
         },
         {
@@ -1664,6 +1985,9 @@
             },
             "psf": "147",
             "value_index": "173000",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 8
         },
         {
@@ -1680,6 +2004,9 @@
             },
             "psf": "183",
             "value_index": "150400",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 16
         },
         {
@@ -1696,6 +2023,9 @@
             },
             "psf": "168",
             "value_index": "241400",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 16
         },
         {
@@ -1712,6 +2042,9 @@
             },
             "psf": "168",
             "value_index": "241400",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 17
         },
         {
@@ -1728,6 +2061,9 @@
             },
             "psf": "205",
             "value_index": "352000",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 18
         },
         {
@@ -1744,6 +2080,9 @@
             },
             "psf": "242",
             "value_index": "464600",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 18
         },
         {
@@ -1761,6 +2100,9 @@
             },
             "psf": "171",
             "value_index": "283400",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 16
         },
         {
@@ -1778,6 +2120,9 @@
             },
             "psf": "235",
             "value_index": "431900",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 16
         },
         {
@@ -1794,6 +2139,9 @@
             },
             "psf": "235",
             "value_index": "431900",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 48
         },
         {
@@ -1810,6 +2158,9 @@
             },
             "psf": "323",
             "value_index": "630700",
+            "lines": [
+                "PROVSTOU"
+            ],
             "passing": 29
         },
         {
@@ -1826,6 +2177,9 @@
             },
             "psf": "372",
             "value_index": "666400",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1842,6 +2196,9 @@
             },
             "psf": "377",
             "value_index": "776100",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1858,6 +2215,9 @@
             },
             "psf": "377",
             "value_index": "776100",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1874,6 +2234,9 @@
             },
             "psf": "377",
             "value_index": "776100",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1890,6 +2253,9 @@
             },
             "psf": "291",
             "value_index": "429000",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1906,6 +2272,9 @@
             },
             "psf": "291",
             "value_index": "429000",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1922,6 +2291,9 @@
             },
             "psf": "291",
             "value_index": "429000",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1938,6 +2310,9 @@
             },
             "psf": "263",
             "value_index": "355300",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1954,6 +2329,9 @@
             },
             "psf": "348",
             "value_index": "427200",
+            "lines": [
+                "NEEDHAM"
+            ],
             "passing": 16
         },
         {
@@ -1970,6 +2348,9 @@
             },
             "psf": "310",
             "value_index": "447600",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -1986,6 +2367,9 @@
             },
             "psf": "253",
             "value_index": "355300",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2002,6 +2386,9 @@
             },
             "psf": "253",
             "value_index": "355300",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2018,6 +2405,9 @@
             },
             "psf": "308",
             "value_index": "713300",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2034,6 +2424,9 @@
             },
             "psf": "216",
             "value_index": "357900",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2050,6 +2443,9 @@
             },
             "psf": "216",
             "value_index": "357900",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2066,6 +2462,9 @@
             },
             "psf": "216",
             "value_index": "357900",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2083,6 +2482,9 @@
             },
             "psf": "276",
             "value_index": "422300",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2100,6 +2502,9 @@
             },
             "psf": "206",
             "value_index": "393000",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2117,6 +2522,9 @@
             },
             "psf": "219",
             "value_index": "411800",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 12
         },
         {
@@ -2134,6 +2542,9 @@
             },
             "psf": "255",
             "value_index": "467400",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 13
         },
         {
@@ -2151,6 +2562,9 @@
             },
             "psf": "216",
             "value_index": "357900",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 13
         },
         {
@@ -2167,6 +2581,9 @@
             },
             "psf": "216",
             "value_index": "357900",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 58
         },
         {
@@ -2183,6 +2600,9 @@
             },
             "psf": "191",
             "value_index": "287800",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 29
         },
         {
@@ -2199,6 +2619,9 @@
             },
             "psf": "223",
             "value_index": "400800",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 29
         },
         {
@@ -2215,6 +2638,9 @@
             },
             "psf": "190",
             "value_index": 0,
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 29
         },
         {
@@ -2231,6 +2657,9 @@
             },
             "psf": "190",
             "value_index": 0,
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 29
         },
         {
@@ -2247,6 +2676,9 @@
             },
             "psf": "196",
             "value_index": "227200",
+            "lines": [
+                "NBRYROCK"
+            ],
             "passing": 29
         }
     ],

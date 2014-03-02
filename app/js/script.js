@@ -2,6 +2,8 @@ var  margin = {t:50, r:50, b:50, l:50},
     width = $('.canvas').width() - margin.l - margin.r,
     height = $('.canvas').height() - margin.t - margin.b;
 
+
+//Projection, scales, format and axees
 var projection = d3.geo.projection(function(a, b){
     return [
         a,
@@ -18,6 +20,8 @@ var scales = {};
     scales.linkLength = d3.scale.linear().range([0,height/2]);
     scales.linkWidth = d3.scale.linear().domain([0,40]).range([0,6]);
     scales.linkColor = d3.scale.linear().domain([0,40]).range(['#00BCC7','#F0576D']);
+    scales.scatterX = d3.scale.linear().range([100,width-100]);
+    scales.scatterY = d3.scale.log().range([height-100,100]);
 
 var format = {};
     format.duration = function(sec){
@@ -31,6 +35,14 @@ var format = {};
       }
     };
 
+var axes = {};
+axes.x = d3.svg.axis().scale(scales.scatterX)
+    .tickValues([900,1800,2700,3600,4500,5400])
+    .innerTickSize(height-200)
+    .tickFormat(format.duration);
+
+
+//Initialize canvas
 var canvas = d3.select('.canvas').append('svg')
     .attr('width', width + margin.l + margin.r)
     .attr('height'. height + margin.t + margin.b)
@@ -86,8 +98,11 @@ function dataLoaded(err, data){
 
 
     //set the proper scales
-    var maxDuration = Math.round(d3.max(uniqueStations, function(d){return d.duration; })/900)*900;
+    var maxDuration = Math.round(d3.max(uniqueStations, function(d){return d.duration; })/900)*900,
+        maxPsf = Math.round(d3.max(uniqueStations, function(d){ return d.psf; }));
     scales.color.domain([0,maxDuration-900]);
+    scales.scatterX.domain([0,maxDuration]);
+    scales.scatterY.domain([100,maxPsf-100]);
 
 
     //set up the force layout
@@ -134,10 +149,17 @@ var showSpace = function(){
         station.y = projection([station.location.lng, station.location.lat])[1];
     });
 
+    //reset scale
+    scales.stationSize = d3.scale.log().domain([0.1,15]).range([0.1,4.5]);
+
     stationNodes
         .transition()
         .attr('transform', function(d){
             return 'translate('  + d.x + ',' + d.y + ')';
+        })
+        .select('circle')
+        .attr('r', function(d){
+            return scales.stationSize(d.freq);
         });
     stationLinks
         .transition()
@@ -149,6 +171,7 @@ var showSpace = function(){
     //Draw scale
     scaleTicks = [];
     drawScale();
+    canvas.selectAll('.axis').remove();
 
     nodeTemplate = _.template('<li><span>STATION: </span><%= id %></li>');
 
@@ -157,9 +180,17 @@ var showSpace = function(){
 var showTime = function(){
     force.stop();
 
+    //reset initial position for force layout
+    uniqueStations.forEach(function(station){
+        station.x = projection([station.location.lng, station.location.lat])[0];
+        station.y = projection([station.location.lng, station.location.lat])[1];
+    });
+
     //reset scales
     var max = Math.round(d3.max(uniqueStations, function(d){return d.duration; })/900)*900;
     scales.linkLength = d3.scale.linear().domain([0,max-900]).range([0,height/2]);
+    scales.stationSize = d3.scale.log().domain([0.1,15]).range([0.1,4.5]);
+
 
     //re-calculate force layout
     force
@@ -193,6 +224,7 @@ var showTime = function(){
         i++;
     }
     drawScale();
+    canvas.selectAll('.axis').remove();
 
     //Change tooltip label
     nodeTemplate = _.template('<li><span>STATION: </span><%= id %></li><li><span>TIME: </span><%= duration_parsed %></li>');
@@ -202,14 +234,20 @@ var showTime = function(){
 var showMoney = function(){
     force.stop();
 
+    //reset initial position for force layout
+    uniqueStations.forEach(function(station){
+        station.x = projection([station.location.lng, station.location.lat])[0];
+        station.y = projection([station.location.lng, station.location.lat])[1];
+    });
+
     //re-calculate max and min
     var max = d3.max(uniqueStations, function(d){ return d.psf; }) - 100,
         min = d3.min(uniqueStations, function(d){ return d.psf; });
 
-    console.log(min);
-    console.log(max);
-
+    //Reset scales
     scales.linkLength = d3.scale.log().domain([max,min]).range([0,height/2 + margin.t]);
+    scales.stationSize = d3.scale.log().domain([0.1,15]).range([0.1,4.5]);
+
 
     //re-calculate force layout
     force
@@ -244,15 +282,71 @@ var showMoney = function(){
         i++;
     }
     drawScale();
+    canvas.selectAll('.axis').remove();
 
     nodeTemplate = _.template('<li><span>STATION: </span><%= id %></li><li><span>Price per SF: </span>$<%= psf %>/SF</li>');
 };
 
 
+function showScatterPlot(){
+    force.stop();
+
+    //reset scales
+    scales.stationSize = d3.scale.linear().domain([0,20]).range([0,8]);
+
+    //re-calculate x and y
+    uniqueStations.forEach(function(station){
+        station.x = scales.scatterX(station.duration);
+        station.y = scales.scatterY(station.psf);
+    });
+
+    stationNodes
+        .transition()
+        .attr('transform', function(d){
+            return 'translate('  + d.x + ',' + d.y + ')';
+        })
+        .select('circle')
+        .attr('r', function(d){
+           return scales.stationSize(d.freq);
+        });
+    stationLinks
+        .transition()
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; })
+        .style("stroke-width", 1)
+        .style("stroke", function(d){
+            if(d.type === "frequency"){
+                return d3.rgb(220,220,220);
+            }else{
+                return "none";
+            }
+        });
+
+
+    //remove circular scale
+    scaleTicks = [];
+    drawScale();
+
+    //draw scatter scale
+    canvas.selectAll('.axis').remove();
+    canvas.insert('g', '.station')
+        .attr('class','axis')
+        .attr('transform', 'translate(0,100)')
+        .call(axes.x);
+
+
+    //template
+    nodeTemplate = _.template('<li><span>STATION: </span><%= id %></li><li><span>TIME: </span><%= duration_parsed %></li>');
+}
+
+
 var controls = {
   'showSpace': showSpace,
   'showTime': showTime,
-  'showMoney': showMoney
+  'showMoney': showMoney,
+  'scatter': showScatterPlot
 };
 
 
@@ -296,9 +390,6 @@ function redraw(){
             return 'translate('  + d.x + ',' + d.y + ')';
         })
         .append('circle')
-        .attr('r',function(d){
-            return scales.stationSize(d.freq);
-        })
         .style('fill',function(d){
             return scales.color(d.duration);
         })
@@ -327,6 +418,11 @@ function redraw(){
         .on('click', function(d){
            d3.select(this).attr('class','highlighted');
 
+        });
+
+    stationNodes.select('circle')
+        .attr('r',function(d){
+            return scales.stationSize(d.freq);
         });
 
 }

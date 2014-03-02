@@ -42,8 +42,13 @@ function parseData(){
                    return elem.id === station.id;
                 }))[0];
 
+                var meta = (metadata.filter(function(elem){
+                   return elem.id === station.id;
+                }))[0];
+
                 station.psf = zillowData.psf;
                 station.value_index = zillowData.value_index;
+                station.lines = meta.lines;
 
                 uniqueStations.push(station);
             }else{

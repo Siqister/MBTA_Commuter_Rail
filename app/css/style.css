@@ -42,10 +42,10 @@ svg text{
 
 .container .control{
     position: absolute;
-    bottom: 50px;
+    bottom: 40px;
     left: 50%;
-    margin-left: -150px;
-    width: 300px;
+    margin-left: -200px;
+    width: 400px;
     height: 60px;
 }
 
@@ -84,3 +84,11 @@ svg .station circle.highlighted{
     font-size: 12px;
 }
 
+/* Axis */
+svg .axis .tick line{
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+svg .axis .domain{
+    fill: none;
+}
