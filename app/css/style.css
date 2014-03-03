@@ -12,20 +12,20 @@ body{
 /* fonts */
 @font-face{
     font-family: 'Miso-bold';
-    url: '../assets/fonts/miso/miso-bold.otf';
+    src: url('../assets/fonts/miso/MISO-BOL.OTF');
 }
 @font-face{
     font-family: 'Miso-regular';
-    url: '../assets/fonts/miso/miso-regular.ttf';
+    src: url('../assets/fonts/miso/miso-regular.ttf');
 }
 .tooltip{
-    font-family: 'Miso-regular', Helvetica, sans-serif;
+    font-family: 'Miso-bold', Helvetica, sans-serif;
 }
 .tooltip span{
-    font-family: 'Miso-bold', Helvetica, sans-serif;
+    font-family: 'Miso-regular', Helvetica, sans-serif;
 }
 svg text{
-    font-family: 'Miso-bold', Helvetica, sans-serif;
+    font-family: 'Miso-regular', Helvetica, sans-serif;
     font-size: 12px;
 }
 
@@ -70,6 +70,16 @@ svg .station circle.highlighted{
     stroke: #F97338;
 }
 
+svg .linePath path{
+    fill: none;
+    stroke: rgba(210,210,210,0.7);
+    stroke-width: 3px;
+}
+svg .linePath path:hover,
+svg .linePath path.highlighted{
+    stroke: #F97338;
+}
+
 /* Tooltip */
 .tooltip{
     padding: 8px;
@@ -78,7 +88,7 @@ svg .station circle.highlighted{
 }
 .tooltip li{
     list-style: none;
-    font-size: 14px;
+    font-size: 18px;
 }
 .tooltip li span{
     font-size: 12px;

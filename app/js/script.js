@@ -35,11 +35,17 @@ var format = {};
       }
     };
 
+//SVG generators
 var axes = {};
 axes.x = d3.svg.axis().scale(scales.scatterX)
     .tickValues([900,1800,2700,3600,4500,5400])
     .innerTickSize(height-200)
     .tickFormat(format.duration);
+
+var pathGenerator = d3.svg.line()
+    .x(function(d){ return d.x })
+    .y(function(d){ return d.y })
+    .interpolate('monotone');
 
 
 //Initialize canvas
@@ -52,11 +58,14 @@ var canvas = d3.select('.canvas').append('svg')
 var tooltip;
 
 var nodeTemplate = _.template('<li><span>STATION: </span><%= id %></li>'),
-    linkTemplate = _.template('<li><%= value %> trains</li>');
+    linkTemplate = _.template('<li><%= value %> trains</li>'),
+    lineTemplate = _.template('<li><%= line_id %></li>');
 
-//Global objects for data
+//Global objects for data, including shim
 var uniqueStations, links, scaleTicks;
 var force;
+var linePaths = [];
+var lineIds = ['FITCHBRG', 'FAIRMNT', 'WORCSTER', 'FRANKLIN', 'GREENBSH', 'HAVRHILL', 'OLCOLONY', 'LOWELL', 'NEEDHAM', 'NBRYROCK', 'PROVSTOU'];
 
 //Global variables for drawing elements
 var stationNodes, stationLinks;
@@ -73,7 +82,7 @@ function dataLoaded(err, data){
     console.log(links.length);
     console.log(uniqueStations.length);
 
-
+    //FINAL PARSING FOR DATA
     //set "fixed" attribute
     //and initial "x" and "y" attributes
     uniqueStations.forEach(function(station){
@@ -85,7 +94,6 @@ function dataLoaded(err, data){
        station.duration_parsed = format.duration(station.duration);
     });
 
-
     //parse link for force layout
     links.forEach(function(link){
        var source = _.findWhere(uniqueStations, {id: link.source}),
@@ -95,6 +103,19 @@ function dataLoaded(err, data){
         link.target = target;
     });
 
+    //parse path data for each line
+    lineIds.forEach(function(lineId){
+        var stationsPerLine = _.filter(uniqueStations, function(st){
+            return( _.contains(st.lines, lineId) );
+        });
+
+        linePaths.push({
+           line_id: lineId,
+           stations: stationsPerLine.sort(function(a,b){
+               return a.duration - b.duration;
+           })
+        });
+    });
 
 
     //set the proper scales
@@ -152,21 +173,8 @@ var showSpace = function(){
     //reset scale
     scales.stationSize = d3.scale.log().domain([0.1,15]).range([0.1,4.5]);
 
-    stationNodes
-        .transition()
-        .attr('transform', function(d){
-            return 'translate('  + d.x + ',' + d.y + ')';
-        })
-        .select('circle')
-        .attr('r', function(d){
-            return scales.stationSize(d.freq);
-        });
-    stationLinks
-        .transition()
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+    //transition nodes and links into right places
+    redraw();
 
     //Draw scale
     scaleTicks = [];
@@ -245,7 +253,7 @@ var showMoney = function(){
         min = d3.min(uniqueStations, function(d){ return d.psf; });
 
     //Reset scales
-    scales.linkLength = d3.scale.log().domain([max,min]).range([0,height/2 + margin.t]);
+    scales.linkLength = d3.scale.log().domain([max,min]).range([0,height/2]);
     scales.stationSize = d3.scale.log().domain([0.1,15]).range([0.1,4.5]);
 
 
@@ -291,7 +299,7 @@ var showMoney = function(){
 function showScatterPlot(){
     force.stop();
 
-    //reset scales
+    //set scale for station size based on frequency
     scales.stationSize = d3.scale.linear().domain([0,20]).range([0,8]);
 
     //re-calculate x and y
@@ -300,6 +308,7 @@ function showScatterPlot(){
         station.y = scales.scatterY(station.psf);
     });
 
+    //reposition stations and remove links
     stationNodes
         .transition()
         .attr('transform', function(d){
@@ -310,26 +319,38 @@ function showScatterPlot(){
            return scales.stationSize(d.freq);
         });
     stationLinks
-        .transition()
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; })
-        .style("stroke-width", 1)
-        .style("stroke", function(d){
-            if(d.type === "frequency"){
-                return d3.rgb(220,220,220);
-            }else{
-                return "none";
-            }
-        });
+        .remove();
 
+    //Add in paths for each individual line
+    console.log(linePaths);
+    canvas.selectAll('.linePath').data(linePaths, function(d){ return d.line_id; })
+        .enter()
+        .insert('g', '.station')
+        .attr('class', 'linePath')
+        .append('path')
+        .attr('d', function(d){ return pathGenerator(d.stations); })
+        .on('mouseenter', function(d){
+            tooltip.show();
+            tooltip.css({
+                'left': d3.event.x + 20 + 'px',
+                'top': d3.event.y + 'px',
+                'background': '#F97338'
+            });
+            tooltip.html(lineTemplate(d));
+
+        })
+        .on('mouseout', function(d){
+            tooltip.hide();
+        })
+        .on('click', function(d){
+            d3.select(this).attr('class','highlighted');
+        });
 
     //remove circular scale
     scaleTicks = [];
     drawScale();
 
-    //draw scatter scale
+    //draw scatter axis
     canvas.selectAll('.axis').remove();
     canvas.insert('g', '.station')
         .attr('class','axis')
@@ -351,20 +372,23 @@ var controls = {
 
 
 function redraw(){
+    //remove redundant elements
+    canvas.selectAll('.linePath').remove();
+
     //Redraw
     stationLinks = canvas.selectAll('.freqLink')
         .data(links, function(d){
             return d.source.id + "-" + d.target.id + "-" + d.type;
         });
     var stationLinksEnter = stationLinks.enter()
-        .insert('line')
+        .insert('line', '.station')
         .attr('class','freqLink')
-        .attr("id", function(d){ return d.source.id + "-" + d.target.id;})
+        .attr("id", function(d){ return d.source.id + "-" + d.target.id;});
+    stationLinks
         .attr("x1", function(d) { return d.source.x; })
         .attr("y1", function(d) { return d.source.y; })
         .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
-    stationLinks
+        .attr("y2", function(d) { return d.target.y; })
         .transition()
         .style('stroke', function(d){
             if(d.type==="duration"){
@@ -386,9 +410,6 @@ function redraw(){
         .append('g')
         .attr('class', 'station')
         .attr('id', function(d){ return d.id; })
-        .attr('transform', function(d){
-            return 'translate('  + d.x + ',' + d.y + ')';
-        })
         .append('circle')
         .style('fill',function(d){
             return scales.color(d.duration);
@@ -417,20 +438,21 @@ function redraw(){
         })
         .on('click', function(d){
            d3.select(this).attr('class','highlighted');
-
+           console.log(d);
         });
-
-    stationNodes.select('circle')
+    stationNodes
+        .attr('transform', function(d){
+            return 'translate('  + d.x + ',' + d.y + ')';
+        })
+        .select('circle')
         .attr('r',function(d){
             return scales.stationSize(d.freq);
         });
-
 }
 
 
 
 function drawScale(){
-    console.log(scaleTicks);
 
     var ticks = canvas.selectAll('.scale').data(scaleTicks, function(d){ return d.index; });
     ticks
@@ -486,7 +508,6 @@ function drawScale(){
 
 
 function onTick(e){
-
     //TODO: experiment with straightening
     links.filter(function(d){
         return d.type === 'frequency';
